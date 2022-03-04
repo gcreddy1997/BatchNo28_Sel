@@ -1,0 +1,2319 @@
+[INFO] [03:02:22 07_35] *****************    Login Actions   ***************************** 
+[INFO] [03:02:22 07_35] -------------------- Login actions test case stating from here    ---------------------------------    
+[INFO] [03:02:22 07_35] Broser Invoked successsfully
+[WARN] [03:02:22 07_35] Your input is not correct please enter correct data......
+[FATAL] [03:02:22 07_35] Our database don't have space hecne applicate data not inserting into data base 
+[INFO] [03:02:22 07_35]   ############################################################################ 
+[INFO] [03:02:22 07_35] *****************    Login Actions   ***************************** 
+[INFO] [03:02:22 07_35] -------------------- Login actions test case stating from here    ---------------------------------    
+[INFO] [03:02:22 07_35] Broser Invoked successsfully
+[WARN] [03:02:22 07_35] Your input is not correct please enter correct data......
+[FATAL] [03:02:22 07_35] Our database don't have space hecne applicate data not inserting into data base 
+[INFO] [03:02:22 07_35] Browser Invoked successsfully
+[INFO] [10:02:22 07_32] *****************    Excel invocation   ***************************** 
+[INFO] [10:02:22 07_32] -------------------- Checking for the Excel methods execution status    ---------------------------------    
+[INFO] [10:02:22 07_32] File Invoked successfully
+[INFO] [10:02:22 07_32] provided cell vlaue is :DARA
+[INFO] [10:02:22 07_32] provided cell vlaue is :Test
+[INFO] [10:02:22 07_32] provided cell vlaue is :Sameera
+[INFO] [10:02:22 07_32] provided cell vlaue is :Dev
+[INFO] [10:02:22 07_32] provided cell vlaue is :Saini
+[INFO] [10:02:22 07_32] provided cell vlaue is :Test
+[INFO] [10:02:22 07_32] provided cell vlaue is :Sai madhav
+[INFO] [10:02:22 07_32] provided cell vlaue is :Dev
+[INFO] [10:02:22 07_32] provided cell vlaue is :Mahesh
+[INFO] [10:02:22 07_32] provided cell vlaue is :Test
+[INFO] [10:02:22 07_32] provided cell vlaue is :divya
+[INFO] [10:02:22 07_32] provided cell vlaue is :dev
+[INFO] [10:02:22 07_38] *****************    Excel invocation   ***************************** 
+[INFO] [10:02:22 07_38] -------------------- Checking for the Excel methods execution status    ---------------------------------    
+[INFO] [10:02:22 07_38] File Invoked successfully
+[INFO] [10:02:22 07_38] provided cell vlaue is :DARA
+[INFO] [10:02:22 07_38] provided cell vlaue is :Test
+[INFO] [10:02:22 07_38] provided cell vlaue is :Sameera
+[INFO] [10:02:22 07_38] provided cell vlaue is :Dev
+[INFO] [10:02:22 07_38] provided cell vlaue is :Saini
+[INFO] [10:02:22 07_38] provided cell vlaue is :Test
+[INFO] [10:02:22 07_38] provided cell vlaue is :Sai madhav
+[INFO] [10:02:22 07_38] provided cell vlaue is :Dev
+[INFO] [10:02:22 07_38] provided cell vlaue is :Mahesh
+[INFO] [10:02:22 07_38] provided cell vlaue is :Test
+[INFO] [10:02:22 07_38] provided cell vlaue is :divya
+[INFO] [10:02:22 07_38] provided cell vlaue is :dev
+[INFO] [10:02:22 07_38] provided cell vlaue is :Mahesh
+[INFO] [10:02:22 07_40] *****************    Excel invocation   ***************************** 
+[INFO] [10:02:22 07_40] -------------------- Checking for the Excel methods execution status    ---------------------------------    
+[INFO] [10:02:22 07_40] File Invoked successfully
+[INFO] [10:02:22 07_40] provided cell vlaue is :DARA
+[INFO] [10:02:22 07_40] provided cell vlaue is :Test
+[INFO] [10:02:22 07_40] provided cell vlaue is :Sameera
+[INFO] [10:02:22 07_40] provided cell vlaue is :Dev
+[INFO] [10:02:22 07_40] provided cell vlaue is :Saini
+[INFO] [10:02:22 07_40] provided cell vlaue is :Test
+[INFO] [10:02:22 07_40] provided cell vlaue is :Sai madhav
+[INFO] [10:02:22 07_40] provided cell vlaue is :Dev
+[INFO] [10:02:22 07_40] provided cell vlaue is :Mahesh
+[INFO] [10:02:22 07_40] provided cell vlaue is :Test
+[INFO] [10:02:22 07_40] provided cell vlaue is :divya
+[INFO] [10:02:22 07_40] provided cell vlaue is :dev
+[INFO] [10:02:22 07_40] provided cell vlaue is :Mahesh
+[INFO] [10:02:22 07_40]   ############################################################################ 
+[INFO] [17:02:22 08_11] 2022/02/17 20:11:08
+[INFO] [17:02:22 08_11] 0217201108
+[INFO] [17:02:22 08_11] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [18:02:22 07_31] 2022/02/18 19:31:01
+[INFO] [18:02:22 07_31] 0218193101
+[INFO] [18:02:22 07_31] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [18:02:22 07_35] 2022/02/18 19:35:32
+[INFO] [18:02:22 07_35] 0218193532
+[INFO] [18:02:22 07_35] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [18:02:22 07_38] 2022/02/18 19:38:32
+[INFO] [18:02:22 07_38] 0218193832
+[INFO] [18:02:22 07_38] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [18:02:22 07_42] 2022/02/18 19:42:31
+[INFO] [18:02:22 07_42] 0218194231
+[INFO] [18:02:22 07_42] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [18:02:22 07_46] 2022/02/18 19:46:48
+[INFO] [18:02:22 07_46] 0218194648
+[INFO] [18:02:22 07_46] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [18:02:22 07_46] Properties loaded successfuly
+[INFO] [18:02:22 07_46] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [18:02:22 07_46] Properties loaded successfuly
+[INFO] [18:02:22 07_49] 2022/02/18 19:49:36
+[INFO] [18:02:22 07_49] 0218194936
+[INFO] [18:02:22 07_49] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [18:02:22 07_49] Properties loaded successfuly
+[INFO] [18:02:22 07_49] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [18:02:22 07_49] Properties loaded successfuly
+[ERROR] [18:02:22 07_49]  org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 96
+Current browser version is 98.0.4758.102 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'WINDOWS-SBM5E6C', ip: '192.168.0.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'
+Driver info: driver.version: unknown
+remote stacktrace: Backtrace:
+	Ordinal0 [0x006F6903+2517251]
+	Ordinal0 [0x0068F8E1+2095329]
+	Ordinal0 [0x00592848+1058888]
+	Ordinal0 [0x005B0B9D+1182621]
+	Ordinal0 [0x005ACA60+1165920]
+	Ordinal0 [0x005AA2CF+1155791]
+	Ordinal0 [0x005DAAAF+1354415]
+	Ordinal0 [0x005DA71A+1353498]
+	Ordinal0 [0x005D639B+1336219]
+	Ordinal0 [0x005B27A7+1189799]
+	Ordinal0 [0x005B3609+1193481]
+	GetHandleVerifier [0x00885904+1577972]
+	GetHandleVerifier [0x00930B97+2279047]
+	GetHandleVerifier [0x00786D09+534521]
+	GetHandleVerifier [0x00785DB9+530601]
+	Ordinal0 [0x00694FF9+2117625]
+	Ordinal0 [0x006998A8+2136232]
+	Ordinal0 [0x006999E2+2136546]
+	Ordinal0 [0x006A3541+2176321]
+	BaseThreadInitThunk [0x7549FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x773E7A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x773E7A6E+238]
+
+[INFO] [18:02:22 07_56] 2022/02/18 19:56:06
+[INFO] [18:02:22 07_56] 0218195606
+[INFO] [18:02:22 07_56] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [18:02:22 07_56] Properties loaded successfuly
+[INFO] [18:02:22 07_56] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [18:02:22 07_56] Properties loaded successfuly
+[INFO] [18:02:22 07_56] Browser invoked successfully
+[INFO] [18:02:22 07_56] Application https://www.ajio.com/ is invoked successfully
+[INFO] [18:02:22 07_56] Login Actions process started here 
+[INFO] [18:02:22 07_56] Locator information is loign_close_button_xpath =  //*[@class='ic-close-quickview']
+[INFO] [18:02:22 07_58] 2022/02/18 19:58:49
+[INFO] [18:02:22 07_58] 0218195849
+[INFO] [18:02:22 07_58] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [18:02:22 07_58] Properties loaded successfuly
+[INFO] [18:02:22 07_58] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [18:02:22 07_58] Properties loaded successfuly
+[INFO] [18:02:22 07_58] Browser invoked successfully
+[INFO] [18:02:22 07_59] Application https://www.ajio.com/ is invoked successfully
+[INFO] [18:02:22 07_59] Login Actions process started here 
+[INFO] [18:02:22 07_59] Locator information is login_sign_in_Button_xpath =  //*[text()='Sign In / Join AJIO']
+[INFO] [18:02:22 07_59] Element  highlighted successfully
+[INFO] [18:02:22 07_59] Locator information is login_google_button_className =  google-login
+[INFO] [18:02:22 07_59] Element  highlighted successfully
+[INFO] [18:02:22 07_59] Locator information is googleAccounts_emailID_textbox_id =  identifierId
+[WARN] [18:02:22 07_59] Provided key is not avaialbe in the locator.properties 
+[INFO] [18:02:22 08_05] 2022/02/18 20:05:47
+[INFO] [18:02:22 08_05] 0218200547
+[INFO] [18:02:22 08_05] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [18:02:22 08_05] Properties loaded successfuly
+[INFO] [18:02:22 08_05] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [18:02:22 08_05] Properties loaded successfuly
+[INFO] [18:02:22 08_05] Browser invoked successfully
+[INFO] [18:02:22 08_05] Application https://www.ajio.com/ is invoked successfully
+[INFO] [18:02:22 08_05] Login Actions process started here 
+[INFO] [18:02:22 08_05] Locator information is login_sign_in_Button_xpath =  //*[text()='Sign In / Join AJIO']
+[INFO] [18:02:22 08_06] Element  highlighted successfully
+[INFO] [18:02:22 08_06] Locator information is login_google_button_className =  google-login
+[INFO] [18:02:22 08_06] Element  highlighted successfully
+[INFO] [18:02:22 08_06] Locator information is googleAccounts_emailID_textbox_id =  identifierId
+[WARN] [18:02:22 08_06] Provided key is not avaialbe in the locator.properties 
+[INFO] [21:02:22 06_54] *****************    Login Actions   ***************************** 
+[INFO] [21:02:22 06_54] -------------------- Login actions test case stating from here    ---------------------------------    
+[INFO] [21:02:22 06_54] Broser Invoked successsfully
+[WARN] [21:02:22 06_54] Your input is not correct please enter correct data......
+[FATAL] [21:02:22 06_54] Our database don't have space hecne applicate data not inserting into data base 
+[INFO] [21:02:22 06_54]   ############################################################################ 
+[INFO] [21:02:22 06_54] *****************    Login Actions   ***************************** 
+[INFO] [21:02:22 06_54] -------------------- Login actions test case stating from here    ---------------------------------    
+[INFO] [21:02:22 06_54] Broser Invoked successsfully
+[WARN] [21:02:22 06_54] Your input is not correct please enter correct data......
+[FATAL] [21:02:22 06_54] Our database don't have space hecne applicate data not inserting into data base 
+[INFO] [21:02:22 06_54] Browser Invoked successsfully
+[INFO] [21:02:22 07_05] 2022/02/21 19:05:03
+[INFO] [21:02:22 07_05] 0221190503
+[INFO] [21:02:22 07_05] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 07_05] Properties loaded successfuly
+[INFO] [21:02:22 07_05] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 07_05] Properties loaded successfuly
+[INFO] [21:02:22 07_05] Browser invoked successfully
+[INFO] [21:02:22 07_05] Application https://www.ajio.com/ is invoked successfully
+[INFO] [21:02:22 07_05] Login Actions process started here 
+[INFO] [21:02:22 07_05] Locator information is login_sign_in_Button_xpath =  //*[text()='Sign In / Join AJIO']
+[INFO] [21:02:22 07_05] Element  highlighted successfully
+[INFO] [21:02:22 07_05] Locator information is login_google_button_className =  google-login
+[INFO] [21:02:22 07_05] Element  highlighted successfully
+[INFO] [21:02:22 07_05] Locator information is googleAccounts_emailID_textbox_id =  identifierId
+[WARN] [21:02:22 07_05] Provided key is not avaialbe in the locator.properties 
+[INFO] [21:02:22 07_11] 2022/02/21 19:11:00
+[INFO] [21:02:22 07_11] 0221191100
+[INFO] [21:02:22 07_11] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 07_11] Properties loaded successfuly
+[INFO] [21:02:22 07_11] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 07_11] Properties loaded successfuly
+[INFO] [21:02:22 07_11] Browser invoked successfully
+[INFO] [21:02:22 07_11] Application https://www.ajio.com/ is invoked successfully
+[INFO] [21:02:22 07_11] Login Actions process started here 
+[INFO] [21:02:22 07_11] Locator information is login_sign_in_Button_xpath =  //*[text()='Sign In / Join AJIO']
+[INFO] [21:02:22 07_11] Element  highlighted successfully
+[INFO] [21:02:22 07_11] Locator information is login_google_button_className =  google-login
+[INFO] [21:02:22 07_11] Element  highlighted successfully
+[INFO] [21:02:22 07_11] Locator information is googleAccounts_emailID_textbox_id =  identifierId
+[WARN] [21:02:22 07_11] Provided key is not avaialbe in the locator.properties 
+[INFO] [21:02:22 07_12] 2022/02/21 19:12:47
+[INFO] [21:02:22 07_12] 0221191247
+[INFO] [21:02:22 07_12] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 07_12] Properties loaded successfuly
+[INFO] [21:02:22 07_12] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 07_12] Properties loaded successfuly
+[INFO] [21:02:22 07_12] Browser invoked successfully
+[INFO] [21:02:22 07_13] Application https://www.ajio.com/ is invoked successfully
+[INFO] [21:02:22 07_13] Login Actions process started here 
+[INFO] [21:02:22 07_13] Locator information is login_sign_in_Button_xpath =  //*[text()='Sign In / Join AJIO']
+[INFO] [21:02:22 07_13] Element  highlighted successfully
+[INFO] [21:02:22 07_13] Locator information is login_google_button_className =  google-login
+[INFO] [21:02:22 07_13] Element  highlighted successfully
+[INFO] [21:02:22 07_13] Locator information is googleAccounts_emailID_textbox_id =  identifierId
+[WARN] [21:02:22 07_13] Provided key is not avaialbe in the locator.properties 
+[INFO] [21:02:22 07_17] 2022/02/21 19:17:32
+[INFO] [21:02:22 07_17] 0221191732
+[INFO] [21:02:22 07_17] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 07_17] Properties loaded successfuly
+[INFO] [21:02:22 07_17] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 07_17] Properties loaded successfuly
+[INFO] [21:02:22 07_17] Browser invoked successfully
+[INFO] [21:02:22 07_17] Application https://www.ajio.com/ is invoked successfully
+[INFO] [21:02:22 07_17] Login Actions process started here 
+[INFO] [21:02:22 07_17] Locator information is login_sign_in_Button_xpath =  //*[text()='Sign In / Join AJIO']
+[INFO] [21:02:22 07_17] Element  highlighted successfully
+[INFO] [21:02:22 07_17] Locator information is login_google_button_className =  google-login
+[INFO] [21:02:22 07_17] Element  highlighted successfully
+[INFO] [21:02:22 07_17] Locator information is googleAccounts_emailID_textbox_id =  identifierId
+[WARN] [21:02:22 07_17] Provided key is not avaialbe in the locator.properties 
+[INFO] [21:02:22 07_23] 2022/02/21 19:23:30
+[INFO] [21:02:22 07_23] 0221192330
+[INFO] [21:02:22 07_23] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 07_23] Properties loaded successfuly
+[INFO] [21:02:22 07_23] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 07_23] Properties loaded successfuly
+[INFO] [21:02:22 07_23] Browser invoked successfully
+[INFO] [21:02:22 07_23] Application https://www.ajio.com/ is invoked successfully
+[INFO] [21:02:22 07_23] Login Actions process started here 
+[INFO] [21:02:22 07_23] Locator information is login_sign_in_Button_xpath =  //*[text()='Sign In / Join AJIO']
+[INFO] [21:02:22 07_23] Locator information is login_google_button_className =  google-login
+[INFO] [21:02:22 07_23] Locator information is googleAccounts_emailID_textbox_id =  identifierId
+[WARN] [21:02:22 07_23] Provided key is not avaialbe in the locator.properties 
+[INFO] [21:02:22 07_26] 2022/02/21 19:26:54
+[INFO] [21:02:22 07_26] 0221192654
+[INFO] [21:02:22 07_26] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 07_26] Properties loaded successfuly
+[INFO] [21:02:22 07_26] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 07_26] Properties loaded successfuly
+[INFO] [21:02:22 07_26] Browser invoked successfully
+[INFO] [21:02:22 07_27] Application https://www.ajio.com/ is invoked successfully
+[INFO] [21:02:22 07_27] Login Actions process started here 
+[INFO] [21:02:22 07_27] Locator information is login_sign_in_Button_xpath =  //*[text()='Sign In / Join AJIO']
+[INFO] [21:02:22 07_27] Locator information is login_google_button_className =  google-login
+[INFO] [21:02:22 07_27] Locator information is googleAccounts_emailID_textbox_id =  identifierId
+[INFO] [21:02:22 07_30] 2022/02/21 19:30:03
+[INFO] [21:02:22 07_30] 0221193003
+[INFO] [21:02:22 07_30] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 07_30] Properties loaded successfuly
+[INFO] [21:02:22 07_30] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 07_30] Properties loaded successfuly
+[INFO] [21:02:22 07_30] Browser invoked successfully
+[INFO] [21:02:22 07_30] Application https://www.ajio.com/ is invoked successfully
+[INFO] [21:02:22 07_30] Login Actions process started here 
+[INFO] [21:02:22 07_30] Locator information is login_sign_in_Button_xpath =  //*[text()='Sign In / Join AJIO']
+[INFO] [21:02:22 07_30] Locator information is login_google_button_className =  google-login
+[INFO] [21:02:22 07_30] Locator information is googleAccounts_emailID_textbox_id =  identifierId
+[INFO] [21:02:22 07_33] 2022/02/21 19:33:02
+[INFO] [21:02:22 07_33] 0221193302
+[INFO] [21:02:22 07_33] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 07_33] Properties loaded successfuly
+[INFO] [21:02:22 07_33] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 07_33] Properties loaded successfuly
+[INFO] [21:02:22 07_33] Browser invoked successfully
+[INFO] [21:02:22 07_33] Application https://www.ajio.com/ is invoked successfully
+[INFO] [21:02:22 07_33] Login Actions process started here 
+[INFO] [21:02:22 07_33] Locator information is login_sign_in_Button_xpath =  //*[text()='Sign In / Join AJIO']
+[INFO] [21:02:22 07_33] Locator information is login_google_button_className =  google-login
+[INFO] [21:02:22 07_33] Locator information is googleAccounts_emailID_textbox_xpath =  (//*[@class='Xb9hP'])[1]
+[INFO] [21:02:22 07_35] 2022/02/21 19:35:05
+[INFO] [21:02:22 07_35] 0221193505
+[INFO] [21:02:22 07_35] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 07_35] Properties loaded successfuly
+[INFO] [21:02:22 07_35] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 07_35] Properties loaded successfuly
+[INFO] [21:02:22 07_35] Browser invoked successfully
+[INFO] [21:02:22 07_35] Application https://www.ajio.com/ is invoked successfully
+[INFO] [21:02:22 07_35] Login Actions process started here 
+[INFO] [21:02:22 07_35] Locator information is login_sign_in_Button_xpath =  //*[text()='Sign In / Join AJIO']
+[INFO] [21:02:22 07_35] Locator information is login_google_button_className =  google-login
+[INFO] [21:02:22 07_35] Locator information is googleAccounts_emailID_textbox_xpath =  (//*[@class='Xb9hP'])[1]
+[INFO] [21:02:22 07_37] 2022/02/21 19:37:06
+[INFO] [21:02:22 07_37] 0221193706
+[INFO] [21:02:22 07_37] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 07_37] Properties loaded successfuly
+[INFO] [21:02:22 07_37] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 07_37] Properties loaded successfuly
+[INFO] [21:02:22 07_37] Browser invoked successfully
+[INFO] [21:02:22 07_37] Application https://www.ajio.com/ is invoked successfully
+[INFO] [21:02:22 07_37] Login Actions process started here 
+[INFO] [21:02:22 07_37] Locator information is login_sign_in_Button_xpath =  //*[text()='Sign In / Join AJIO']
+[INFO] [21:02:22 07_37] Locator information is login_google_button_className =  google-login
+[INFO] [21:02:22 07_37] Locator information is googleAccounts_emailID_textbox_xpath =  (//*[@class='Xb9hP'])[1]
+[INFO] [21:02:22 07_38] 2022/02/21 19:38:28
+[INFO] [21:02:22 07_38] 0221193828
+[INFO] [21:02:22 07_38] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 07_38] Properties loaded successfuly
+[INFO] [21:02:22 07_38] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 07_38] Properties loaded successfuly
+[INFO] [21:02:22 07_38] Browser invoked successfully
+[INFO] [21:02:22 07_38] Application https://www.ajio.com/ is invoked successfully
+[INFO] [21:02:22 07_38] Login Actions process started here 
+[INFO] [21:02:22 07_38] Locator information is login_sign_in_Button_xpath =  //*[text()='Sign In / Join AJIO']
+[INFO] [21:02:22 07_38] Locator information is login_google_button_className =  google-login
+[INFO] [21:02:22 07_38] Locator information is googleAccounts_emailID_textbox_xpath =  (//*[@class='Xb9hP'])[1]
+[INFO] [21:02:22 07_39] 2022/02/21 19:39:59
+[INFO] [21:02:22 07_39] 0221193959
+[INFO] [21:02:22 07_39] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 07_39] Properties loaded successfuly
+[INFO] [21:02:22 07_39] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 07_39] Properties loaded successfuly
+[INFO] [21:02:22 07_40] Browser invoked successfully
+[INFO] [21:02:22 07_40] Application https://www.ajio.com/ is invoked successfully
+[INFO] [21:02:22 07_40] Login Actions process started here 
+[INFO] [21:02:22 07_40] Locator information is login_sign_in_Button_xpath =  //*[text()='Sign In / Join AJIO']
+[INFO] [21:02:22 07_40] Locator information is login_google_button_className =  google-login
+[INFO] [21:02:22 07_40] Locator information is googleAccounts_emailID_textbox_xpath =  (//*[@class='Xb9hP'])[1]
+[INFO] [21:02:22 10_34] 2022/02/21 22:34:12
+[INFO] [21:02:22 10_34] 0221223412
+[INFO] [21:02:22 10_34] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 10_34] Properties loaded successfuly
+[INFO] [21:02:22 10_34] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 10_34] Properties loaded successfuly
+[INFO] [21:02:22 10_34] Browser invoked successfully
+[INFO] [21:02:22 10_34] Application https://www.ajio.com/ is invoked successfully
+[INFO] [21:02:22 10_34] Login Actions process started here 
+[INFO] [21:02:22 10_34] Locator information is login_sign_in_Button_xpath =  //*[text()='Sign In / Join AJIO']
+[INFO] [21:02:22 10_34] Locator information is login_google_button_className =  google-login
+[INFO] [21:02:22 10_34] Locator information is googleAccounts_emailID_textbox_xpath =  (//*[@class='Xb9hP'])[1]
+[INFO] [21:02:22 10_50] 2022/02/21 22:50:16
+[INFO] [21:02:22 10_50] 0221225016
+[INFO] [21:02:22 10_50] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 10_50] Properties loaded successfuly
+[INFO] [21:02:22 10_50] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 10_50] Properties loaded successfuly
+[INFO] [21:02:22 10_50] Browser invoked successfully
+[INFO] [21:02:22 10_50] Application https://www.ajio.com/ is invoked successfully
+[INFO] [21:02:22 10_50] Login Actions process started here 
+[INFO] [21:02:22 10_50] Locator information is login_sign_in_Button_xpath =  //*[text()='Sign In / Join AJIO']
+[INFO] [21:02:22 10_50] Locator information is login_google_button_xpath =  //*[@class='google-login']
+[INFO] [21:02:22 10_50] Locator information is googleAccounts_emailID_textbox_xpath =  (//*[@class='Xb9hP'])[1]
+[INFO] [21:02:22 10_51] 2022/02/21 22:51:33
+[INFO] [21:02:22 10_51] 0221225133
+[INFO] [21:02:22 10_51] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 10_51] Properties loaded successfuly
+[INFO] [21:02:22 10_51] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 10_51] Properties loaded successfuly
+[INFO] [21:02:22 10_51] Browser invoked successfully
+[INFO] [21:02:22 10_51] Application https://www.ajio.com/ is invoked successfully
+[INFO] [21:02:22 10_51] Login Actions process started here 
+[INFO] [21:02:22 10_51] Locator information is login_sign_in_Button_xpath =  //*[text()='Sign In / Join AJIO']
+[INFO] [21:02:22 10_51] Locator information is login_google_button_xpath =  //*[@class='google-login']
+[INFO] [21:02:22 10_51] Locator information is googleAccounts_emailID_textbox_xpath =  (//*[@class='Xb9hP'])[1]
+[INFO] [21:02:22 10_54] 2022/02/21 22:54:26
+[INFO] [21:02:22 10_54] 0221225426
+[INFO] [21:02:22 10_54] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 10_54] Properties loaded successfuly
+[INFO] [21:02:22 10_54] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 10_54] Properties loaded successfuly
+[INFO] [21:02:22 10_54] Browser invoked successfully
+[INFO] [21:02:22 10_54] Application https://www.ajio.com/ is invoked successfully
+[INFO] [21:02:22 10_54] Login Actions process started here 
+[INFO] [21:02:22 10_54] Locator information is login_sign_in_Button_xpath =  //*[text()='Sign In / Join AJIO']
+[INFO] [21:02:22 10_54] Locator information is login_google_button_xpath =  //*[@class='google-login']
+[INFO] [21:02:22 10_54] Locator information is googleAccounts_emailID_textbox_xpath =  //*[@id='identifierId']
+[INFO] [21:02:22 10_54] Locator information is googleAccounts_nextemail_button_xpath =  (//*[@jsname='V67aGc'])[1]
+[INFO] [21:02:22 10_54] Locator information is googleAccounts_Pw_textbox_id =  password
+[INFO] [21:02:22 10_56] 2022/02/21 22:56:50
+[INFO] [21:02:22 10_56] 0221225650
+[INFO] [21:02:22 10_56] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 10_56] Properties loaded successfuly
+[INFO] [21:02:22 10_56] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 10_56] Properties loaded successfuly
+[INFO] [21:02:22 10_56] Browser invoked successfully
+[INFO] [21:02:22 10_56] Application https://www.ajio.com/ is invoked successfully
+[INFO] [21:02:22 10_56] Login Actions process started here 
+[INFO] [21:02:22 10_56] Locator information is login_sign_in_Button_xpath =  //*[text()='Sign In / Join AJIO']
+[INFO] [21:02:22 10_57] Locator information is login_google_button_xpath =  //*[@class='google-login']
+[INFO] [21:02:22 10_57] Locator information is googleAccounts_emailID_textbox_xpath =  //*[@id='identifierId']
+[INFO] [21:02:22 10_59] 2022/02/21 22:59:01
+[INFO] [21:02:22 10_59] 0221225901
+[INFO] [21:02:22 10_59] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 10_59] Properties loaded successfuly
+[INFO] [21:02:22 10_59] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 10_59] Properties loaded successfuly
+[INFO] [21:02:22 10_59] Browser invoked successfully
+[INFO] [21:02:22 10_59] Application https://www.ajio.com/ is invoked successfully
+[INFO] [21:02:22 10_59] Login Actions process started here 
+[INFO] [21:02:22 10_59] Locator information is login_sign_in_Button_xpath =  //*[text()='Sign In / Join AJIO']
+[INFO] [21:02:22 10_59] Locator information is login_google_button_xpath =  //*[@class='google-login']
+[INFO] [21:02:22 10_59] Locator information is googleAccounts_emailID_textbox_xpath =  //*[@id='identifierId']
+[INFO] [21:02:22 11_00] 2022/02/21 23:00:11
+[INFO] [21:02:22 11_00] 0221230011
+[INFO] [21:02:22 11_00] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 11_00] Properties loaded successfuly
+[INFO] [21:02:22 11_00] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 11_00] Properties loaded successfuly
+[INFO] [21:02:22 11_00] Browser invoked successfully
+[INFO] [21:02:22 11_00] Application https://www.ajio.com/ is invoked successfully
+[INFO] [21:02:22 11_00] Login Actions process started here 
+[INFO] [21:02:22 11_00] Locator information is login_sign_in_Button_xpath =  //*[text()='Sign In / Join AJIO']
+[INFO] [21:02:22 11_00] Locator information is login_google_button_xpath =  //*[@class='google-login']
+[INFO] [21:02:22 11_00] Locator information is googleAccounts_emailID_textbox_xpath =  //*[@id='identifierId']
+[INFO] [21:02:22 11_00] Locator information is googleAccounts_nextemail_button_xpath =  (//*[@jsname='V67aGc'])[1]
+[INFO] [21:02:22 11_00] Locator information is googleAccounts_Pw_textbox_id =  password
+[ERROR] [21:02:22 11_00] High light of an element failed
+[INFO] [21:02:22 11_01] 2022/02/21 23:01:15
+[INFO] [21:02:22 11_01] 0221230115
+[INFO] [21:02:22 11_01] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 11_01] Properties loaded successfuly
+[INFO] [21:02:22 11_01] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 11_01] Properties loaded successfuly
+[INFO] [21:02:22 11_01] Browser invoked successfully
+[INFO] [21:02:22 11_01] Application https://www.ajio.com/ is invoked successfully
+[INFO] [21:02:22 11_01] Login Actions process started here 
+[INFO] [21:02:22 11_01] Locator information is login_sign_in_Button_xpath =  //*[text()='Sign In / Join AJIO']
+[INFO] [21:02:22 11_01] Locator information is login_google_button_xpath =  //*[@class='google-login']
+[INFO] [21:02:22 11_01] Locator information is googleAccounts_emailID_textbox_xpath =  //*[@id='identifierId']
+[INFO] [21:02:22 11_01] Locator information is googleAccounts_nextemail_button_xpath =  (//*[@jsname='V67aGc'])[1]
+[INFO] [21:02:22 11_01] Locator information is googleAccounts_Pw_textbox_id =  password
+[INFO] [21:02:22 11_03] 2022/02/21 23:03:20
+[INFO] [21:02:22 11_03] 0221230320
+[INFO] [21:02:22 11_03] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 11_03] Properties loaded successfuly
+[INFO] [21:02:22 11_03] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 11_03] Properties loaded successfuly
+[INFO] [21:02:22 11_03] Browser invoked successfully
+[INFO] [21:02:22 11_03] Application https://www.ajio.com/ is invoked successfully
+[INFO] [21:02:22 11_03] Login Actions process started here 
+[INFO] [21:02:22 11_03] Locator information is login_sign_in_Button_xpath =  //*[text()='Sign In / Join AJIO']
+[INFO] [21:02:22 11_03] Locator information is login_google_button_xpath =  //*[@class='google-login']
+[INFO] [21:02:22 11_03] Locator information is googleAccounts_emailID_textbox_xpath =  //*[@id='identifierId']
+[INFO] [21:02:22 11_03] Locator information is googleAccounts_nextemail_button_xpath =  (//*[@jsname='V67aGc'])[1]
+[INFO] [21:02:22 11_03] Locator information is googleAccounts_Pw_textbox_id =  password
+[INFO] [21:02:22 11_21] 2022/02/21 23:21:03
+[INFO] [21:02:22 11_21] 0221232103
+[INFO] [21:02:22 11_21] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 11_21] Properties loaded successfuly
+[INFO] [21:02:22 11_21] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 11_21] Properties loaded successfuly
+[INFO] [21:02:22 11_22] 2022/02/21 23:22:08
+[INFO] [21:02:22 11_22] 0221232208
+[INFO] [21:02:22 11_22] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 11_22] Properties loaded successfuly
+[INFO] [21:02:22 11_22] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 11_22] Properties loaded successfuly
+[INFO] [21:02:22 11_22] File Invoked successfully
+[INFO] [21:02:22 11_24] 2022/02/21 23:24:13
+[INFO] [21:02:22 11_24] 0221232413
+[INFO] [21:02:22 11_24] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 11_24] Properties loaded successfuly
+[INFO] [21:02:22 11_24] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 11_24] Properties loaded successfuly
+[INFO] [21:02:22 11_24] File Invoked successfully
+[ERROR] [21:02:22 11_24]  java.lang.NullPointerException: Cannot invoke "String.equalsIgnoreCase(String)" because "browser" is null
+[INFO] [21:02:22 11_30] 2022/02/21 23:30:35
+[INFO] [21:02:22 11_30] 0221233035
+[INFO] [21:02:22 11_30] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 11_30] Properties loaded successfuly
+[INFO] [21:02:22 11_30] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 11_30] Properties loaded successfuly
+[INFO] [21:02:22 11_30] File Invoked successfully
+[INFO] [21:02:22 11_30] Browser invoked successfully
+[INFO] [21:02:22 11_30] Application https://acme-test.uipath.com/login is invoked successfully
+[INFO] [21:02:22 11_30] Performing Login operation
+[INFO] [21:02:22 11_30] Locator information is Login_UserName_TxtBox_id =  null
+[INFO] [21:02:22 11_33] 2022/02/21 23:33:50
+[INFO] [21:02:22 11_33] 0221233350
+[INFO] [21:02:22 11_33] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 11_33] Properties loaded successfuly
+[INFO] [21:02:22 11_33] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 11_33] Properties loaded successfuly
+[INFO] [21:02:22 11_33] File Invoked successfully
+[INFO] [21:02:22 11_33] Browser invoked successfully
+[INFO] [21:02:22 11_33] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [21:02:22 11_33] Performing Login operation
+[INFO] [21:02:22 11_33] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [21:02:22 11_33] Username entered : gcreddy1997@gmail.com
+[INFO] [21:02:22 11_33] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [21:02:22 11_33] Password entered : Madhavi@1206
+[INFO] [21:02:22 11_33] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [21:02:22 11_33] Submit button clicked
+[INFO] [21:02:22 11_33] picas_dashboard page is displayed successfully
+[INFO] [21:02:22 11_35] 2022/02/21 23:35:32
+[INFO] [21:02:22 11_35] 0221233532
+[INFO] [21:02:22 11_35] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 11_35] Properties loaded successfuly
+[INFO] [21:02:22 11_35] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 11_35] Properties loaded successfuly
+[INFO] [21:02:22 11_35] File Invoked successfully
+[INFO] [21:02:22 11_35] Browser invoked successfully
+[INFO] [21:02:22 11_35] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [21:02:22 11_35] Performing Login operation
+[INFO] [21:02:22 11_35] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [21:02:22 11_35] Username entered : gcreddy1997@gmail.com
+[INFO] [21:02:22 11_35] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [21:02:22 11_35] Password entered : Madhavi@1206
+[INFO] [21:02:22 11_35] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [21:02:22 11_35] Submit button clicked
+[INFO] [21:02:22 11_36] 2022/02/21 23:36:05
+[INFO] [21:02:22 11_36] 0221233605
+[INFO] [21:02:22 11_36] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 11_36] Properties loaded successfuly
+[INFO] [21:02:22 11_36] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 11_36] Properties loaded successfuly
+[INFO] [21:02:22 11_36] File Invoked successfully
+[INFO] [21:02:22 11_36] provided cell vlaue is :Yes
+[INFO] [21:02:22 11_36] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [21:02:22 11_36] provided cell vlaue is :Madhavi@1206
+[INFO] [21:02:22 11_36] provided cell vlaue is :valid
+[INFO] [21:02:22 11_36] provided cell vlaue is :UiBank
+[INFO] [21:02:22 11_36] provided cell vlaue is :Yes
+[INFO] [21:02:22 11_36] provided cell vlaue is :invalid
+[INFO] [21:02:22 11_36] provided cell vlaue is :Madhavi@1206
+[INFO] [21:02:22 11_36] provided cell vlaue is :invalid
+[INFO] [21:02:22 11_36] provided cell vlaue is :login failed
+[INFO] [21:02:22 11_36] provided cell vlaue is :Yes
+[INFO] [21:02:22 11_36] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [21:02:22 11_36] provided cell vlaue is :invalid
+[INFO] [21:02:22 11_36] provided cell vlaue is :invalid
+[INFO] [21:02:22 11_36] provided cell vlaue is :login failed
+[INFO] [21:02:22 11_36] provided cell vlaue is :Yes
+[INFO] [21:02:22 11_36] provided cell vlaue is :
+[INFO] [21:02:22 11_36] provided cell vlaue is :Madhavi@1206
+[INFO] [21:02:22 11_36] provided cell vlaue is :Invalid
+[INFO] [21:02:22 11_36] provided cell vlaue is :username or email is required
+[INFO] [21:02:22 11_36] provided cell vlaue is :Yes
+[INFO] [21:02:22 11_36] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [21:02:22 11_36] provided cell vlaue is :
+[INFO] [21:02:22 11_36] provided cell vlaue is :invalid
+[INFO] [21:02:22 11_36] provided cell vlaue is :login failed
+[ERROR] [21:02:22 11_36]  java.lang.NullPointerException: Cannot invoke "String.equalsIgnoreCase(String)" because "browser" is null
+[INFO] [21:02:22 11_37] 2022/02/21 23:37:36
+[INFO] [21:02:22 11_37] 0221233736
+[INFO] [21:02:22 11_37] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 11_37] Properties loaded successfuly
+[INFO] [21:02:22 11_37] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 11_37] Properties loaded successfuly
+[INFO] [21:02:22 11_37] File Invoked successfully
+[INFO] [21:02:22 11_37] provided cell vlaue is :Yes
+[INFO] [21:02:22 11_37] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [21:02:22 11_37] provided cell vlaue is :Madhavi@1206
+[INFO] [21:02:22 11_37] provided cell vlaue is :valid
+[INFO] [21:02:22 11_37] provided cell vlaue is :UiBank
+[INFO] [21:02:22 11_37] provided cell vlaue is :Yes
+[INFO] [21:02:22 11_37] provided cell vlaue is :invalid
+[INFO] [21:02:22 11_37] provided cell vlaue is :Madhavi@1206
+[INFO] [21:02:22 11_37] provided cell vlaue is :invalid
+[INFO] [21:02:22 11_37] provided cell vlaue is :login failed
+[INFO] [21:02:22 11_37] provided cell vlaue is :Yes
+[INFO] [21:02:22 11_37] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [21:02:22 11_37] provided cell vlaue is :invalid
+[INFO] [21:02:22 11_37] provided cell vlaue is :invalid
+[INFO] [21:02:22 11_37] provided cell vlaue is :login failed
+[INFO] [21:02:22 11_37] provided cell vlaue is :Yes
+[INFO] [21:02:22 11_37] provided cell vlaue is :
+[INFO] [21:02:22 11_37] provided cell vlaue is :Madhavi@1206
+[INFO] [21:02:22 11_37] provided cell vlaue is :Invalid
+[INFO] [21:02:22 11_37] provided cell vlaue is :username or email is required
+[INFO] [21:02:22 11_37] provided cell vlaue is :Yes
+[INFO] [21:02:22 11_37] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [21:02:22 11_37] provided cell vlaue is :
+[INFO] [21:02:22 11_37] provided cell vlaue is :invalid
+[INFO] [21:02:22 11_37] provided cell vlaue is :login failed
+[INFO] [21:02:22 11_37] Browser invoked successfully
+[INFO] [21:02:22 11_37] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [21:02:22 11_37] Performing Login operation
+[INFO] [21:02:22 11_37] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [21:02:22 11_37] Username entered : gcreddy1997@gmail.com
+[INFO] [21:02:22 11_37] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [21:02:22 11_37] Password entered : Madhavi@1206
+[INFO] [21:02:22 11_37] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [21:02:22 11_37] Submit button clicked
+[INFO] [21:02:22 11_37] Browser invoked successfully
+[INFO] [21:02:22 11_37] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [21:02:22 11_37] Performing Login operation
+[INFO] [21:02:22 11_37] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [21:02:22 11_37] Username entered : invalid
+[INFO] [21:02:22 11_37] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [21:02:22 11_37] Password entered : Madhavi@1206
+[INFO] [21:02:22 11_37] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [21:02:22 11_37] Submit button clicked
+[INFO] [21:02:22 11_37] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [21:02:22 11_37] Browser invoked successfully
+[INFO] [21:02:22 11_37] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [21:02:22 11_37] Performing Login operation
+[INFO] [21:02:22 11_37] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [21:02:22 11_37] Username entered : gcreddy1997@gmail.com
+[INFO] [21:02:22 11_37] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [21:02:22 11_37] Password entered : invalid
+[INFO] [21:02:22 11_37] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [21:02:22 11_37] Submit button clicked
+[INFO] [21:02:22 11_37] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [21:02:22 11_37] Browser invoked successfully
+[INFO] [21:02:22 11_37] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [21:02:22 11_37] Performing Login operation
+[INFO] [21:02:22 11_37] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [21:02:22 11_37] Username entered : 
+[INFO] [21:02:22 11_37] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [21:02:22 11_38] Password entered : Madhavi@1206
+[INFO] [21:02:22 11_38] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [21:02:22 11_38] Submit button clicked
+[INFO] [21:02:22 11_38] Locator information is Login_nullun_message_xpath =  //*[text()=' username or email is required ']
+[INFO] [21:02:22 11_38] Browser invoked successfully
+[INFO] [21:02:22 11_38] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [21:02:22 11_38] Performing Login operation
+[INFO] [21:02:22 11_38] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [21:02:22 11_38] Username entered : gcreddy1997@gmail.com
+[INFO] [21:02:22 11_38] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [21:02:22 11_38] Password entered : 
+[INFO] [21:02:22 11_38] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [21:02:22 11_38] Submit button clicked
+[INFO] [21:02:22 11_38] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [21:02:22 11_40] 2022/02/21 23:40:06
+[INFO] [21:02:22 11_40] 0221234006
+[INFO] [21:02:22 11_40] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 11_40] Properties loaded successfuly
+[INFO] [21:02:22 11_40] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 11_40] Properties loaded successfuly
+[INFO] [21:02:22 11_40] File Invoked successfully
+[INFO] [21:02:22 11_40] provided cell vlaue is :Yes
+[INFO] [21:02:22 11_40] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [21:02:22 11_40] provided cell vlaue is :Madhavi@1206
+[INFO] [21:02:22 11_40] provided cell vlaue is :valid
+[INFO] [21:02:22 11_40] provided cell vlaue is :UiBank
+[INFO] [21:02:22 11_40] provided cell vlaue is :Yes
+[INFO] [21:02:22 11_40] provided cell vlaue is :invalid
+[INFO] [21:02:22 11_40] provided cell vlaue is :Madhavi@1206
+[INFO] [21:02:22 11_40] provided cell vlaue is :invalid
+[INFO] [21:02:22 11_40] provided cell vlaue is :login failed
+[INFO] [21:02:22 11_40] provided cell vlaue is :Yes
+[INFO] [21:02:22 11_40] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [21:02:22 11_40] provided cell vlaue is :invalid
+[INFO] [21:02:22 11_40] provided cell vlaue is :invalid
+[INFO] [21:02:22 11_40] provided cell vlaue is :login failed
+[INFO] [21:02:22 11_40] provided cell vlaue is :Yes
+[INFO] [21:02:22 11_40] provided cell vlaue is :
+[INFO] [21:02:22 11_40] provided cell vlaue is :Madhavi@1206
+[INFO] [21:02:22 11_40] provided cell vlaue is :Invalid
+[INFO] [21:02:22 11_40] provided cell vlaue is :username or email is required
+[INFO] [21:02:22 11_40] provided cell vlaue is :Yes
+[INFO] [21:02:22 11_40] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [21:02:22 11_40] provided cell vlaue is :
+[INFO] [21:02:22 11_40] provided cell vlaue is :invalid
+[INFO] [21:02:22 11_40] provided cell vlaue is :login failed
+[INFO] [21:02:22 11_40] Browser invoked successfully
+[INFO] [21:02:22 11_40] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [21:02:22 11_40] Performing Login operation
+[INFO] [21:02:22 11_40] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [21:02:22 11_40] Username entered : gcreddy1997@gmail.com
+[INFO] [21:02:22 11_40] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [21:02:22 11_40] Password entered : Madhavi@1206
+[INFO] [21:02:22 11_40] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [21:02:22 11_40] Submit button clicked
+[INFO] [21:02:22 11_40] Browser invoked successfully
+[INFO] [21:02:22 11_40] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [21:02:22 11_40] Performing Login operation
+[INFO] [21:02:22 11_40] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [21:02:22 11_40] Username entered : invalid
+[INFO] [21:02:22 11_40] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [21:02:22 11_40] Password entered : Madhavi@1206
+[INFO] [21:02:22 11_40] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [21:02:22 11_40] Submit button clicked
+[INFO] [21:02:22 11_40] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [21:02:22 11_40] Browser invoked successfully
+[INFO] [21:02:22 11_40] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [21:02:22 11_40] Performing Login operation
+[INFO] [21:02:22 11_40] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [21:02:22 11_40] Username entered : gcreddy1997@gmail.com
+[INFO] [21:02:22 11_40] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [21:02:22 11_40] Password entered : invalid
+[INFO] [21:02:22 11_40] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [21:02:22 11_40] Submit button clicked
+[INFO] [21:02:22 11_40] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [21:02:22 11_40] Browser invoked successfully
+[INFO] [21:02:22 11_40] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [21:02:22 11_40] Performing Login operation
+[INFO] [21:02:22 11_40] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [21:02:22 11_40] Username entered : 
+[INFO] [21:02:22 11_40] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [21:02:22 11_40] Password entered : Madhavi@1206
+[INFO] [21:02:22 11_40] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [21:02:22 11_40] Submit button clicked
+[INFO] [21:02:22 11_40] Locator information is Login_nullun_message_xpath =  //*[text()=' username or email is required ']
+[INFO] [21:02:22 11_40] Browser invoked successfully
+[INFO] [21:02:22 11_40] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [21:02:22 11_40] Performing Login operation
+[INFO] [21:02:22 11_40] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [21:02:22 11_40] Username entered : gcreddy1997@gmail.com
+[INFO] [21:02:22 11_40] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [21:02:22 11_40] Password entered : 
+[INFO] [21:02:22 11_40] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [21:02:22 11_40] Submit button clicked
+[INFO] [21:02:22 11_40] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [21:02:22 11_45] 2022/02/21 23:45:27
+[INFO] [21:02:22 11_45] 0221234527
+[INFO] [21:02:22 11_45] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 11_45] Properties loaded successfuly
+[INFO] [21:02:22 11_45] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 11_45] Properties loaded successfuly
+[INFO] [21:02:22 11_45] File Invoked successfully
+[INFO] [21:02:22 11_45] provided cell vlaue is :Yes
+[INFO] [21:02:22 11_45] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [21:02:22 11_45] provided cell vlaue is :Madhavi@1206
+[INFO] [21:02:22 11_45] provided cell vlaue is :valid
+[INFO] [21:02:22 11_45] provided cell vlaue is :UiBank
+[INFO] [21:02:22 11_45] provided cell vlaue is :Yes
+[INFO] [21:02:22 11_45] provided cell vlaue is :invalid
+[INFO] [21:02:22 11_45] provided cell vlaue is :Madhavi@1206
+[INFO] [21:02:22 11_45] provided cell vlaue is :invalid
+[INFO] [21:02:22 11_45] provided cell vlaue is :login failed
+[INFO] [21:02:22 11_45] provided cell vlaue is :Yes
+[INFO] [21:02:22 11_45] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [21:02:22 11_45] provided cell vlaue is :invalid
+[INFO] [21:02:22 11_45] provided cell vlaue is :invalid
+[INFO] [21:02:22 11_45] provided cell vlaue is :login failed
+[INFO] [21:02:22 11_45] provided cell vlaue is :Yes
+[INFO] [21:02:22 11_45] provided cell vlaue is :
+[INFO] [21:02:22 11_45] provided cell vlaue is :Madhavi@1206
+[INFO] [21:02:22 11_45] provided cell vlaue is :Invalid
+[INFO] [21:02:22 11_45] provided cell vlaue is :username or email is required
+[INFO] [21:02:22 11_45] provided cell vlaue is :Yes
+[INFO] [21:02:22 11_45] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [21:02:22 11_45] provided cell vlaue is :
+[INFO] [21:02:22 11_45] provided cell vlaue is :invalid
+[INFO] [21:02:22 11_45] provided cell vlaue is :login failed
+[INFO] [21:02:22 11_45] Browser invoked successfully
+[INFO] [21:02:22 11_45] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [21:02:22 11_45] Performing Login operation
+[INFO] [21:02:22 11_45] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [21:02:22 11_45] Username entered : gcreddy1997@gmail.com
+[INFO] [21:02:22 11_45] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [21:02:22 11_45] Password entered : Madhavi@1206
+[INFO] [21:02:22 11_45] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [21:02:22 11_45] Submit button clicked
+[INFO] [21:02:22 11_45] Browser invoked successfully
+[INFO] [21:02:22 11_45] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [21:02:22 11_45] Performing Login operation
+[INFO] [21:02:22 11_45] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [21:02:22 11_45] Username entered : invalid
+[INFO] [21:02:22 11_45] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [21:02:22 11_45] Password entered : Madhavi@1206
+[INFO] [21:02:22 11_45] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [21:02:22 11_45] Submit button clicked
+[INFO] [21:02:22 11_45] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [21:02:22 11_45] Browser invoked successfully
+[INFO] [21:02:22 11_45] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [21:02:22 11_45] Performing Login operation
+[INFO] [21:02:22 11_45] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [21:02:22 11_45] Username entered : gcreddy1997@gmail.com
+[INFO] [21:02:22 11_45] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [21:02:22 11_45] Password entered : invalid
+[INFO] [21:02:22 11_45] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [21:02:22 11_45] Submit button clicked
+[INFO] [21:02:22 11_45] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [21:02:22 11_45] Browser invoked successfully
+[INFO] [21:02:22 11_45] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [21:02:22 11_45] Performing Login operation
+[INFO] [21:02:22 11_45] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [21:02:22 11_45] Username entered : 
+[INFO] [21:02:22 11_45] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [21:02:22 11_45] Password entered : Madhavi@1206
+[INFO] [21:02:22 11_45] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [21:02:22 11_45] Submit button clicked
+[INFO] [21:02:22 11_45] Locator information is Login_nullun_message_xpath =  //*[text()=' username or email is required ']
+[INFO] [21:02:22 11_46] Browser invoked successfully
+[INFO] [21:02:22 11_46] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [21:02:22 11_46] Performing Login operation
+[INFO] [21:02:22 11_46] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [21:02:22 11_46] Username entered : gcreddy1997@gmail.com
+[INFO] [21:02:22 11_46] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [21:02:22 11_46] Password entered : 
+[INFO] [21:02:22 11_46] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [21:02:22 11_46] Submit button clicked
+[INFO] [21:02:22 11_46] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [21:02:22 11_46] 2022/02/21 23:46:36
+[INFO] [21:02:22 11_46] 0221234636
+[INFO] [21:02:22 11_46] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [21:02:22 11_46] Properties loaded successfuly
+[INFO] [21:02:22 11_46] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [21:02:22 11_46] Properties loaded successfuly
+[INFO] [21:02:22 11_46] File Invoked successfully
+[INFO] [21:02:22 11_46] Browser invoked successfully
+[INFO] [21:02:22 11_46] Application https://www.ajio.com/ is invoked successfully
+[INFO] [21:02:22 11_46] Login Actions process started here 
+[INFO] [21:02:22 11_46] Locator information is login_sign_in_Button_xpath =  //*[text()='Sign In / Join AJIO']
+[INFO] [21:02:22 11_46] Locator information is login_google_button_xpath =  //*[@class='google-login']
+[INFO] [21:02:22 11_46] Locator information is googleAccounts_emailID_textbox_xpath =  //*[@id='identifierId']
+[INFO] [21:02:22 11_46] Locator information is googleAccounts_nextemail_button_xpath =  (//*[@jsname='V67aGc'])[1]
+[INFO] [21:02:22 11_46] Locator information is googleAccounts_Pw_textbox_id =  password
+[ERROR] [21:02:22 11_47] High light of an element failed
+[INFO] [22:02:22 07_04] 2022/02/22 19:04:31
+[INFO] [22:02:22 07_04] 0222190431
+[INFO] [22:02:22 07_04] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [22:02:22 07_04] Properties loaded successfuly
+[INFO] [22:02:22 07_04] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [22:02:22 07_04] Properties loaded successfuly
+[INFO] [22:02:22 07_04] File Invoked successfully
+[INFO] [22:02:22 07_04] Browser invoked successfully
+[INFO] [22:02:22 07_04] Application https://www.ajio.com/ is invoked successfully
+[INFO] [22:02:22 07_04] Login Actions process started here 
+[INFO] [22:02:22 07_04] Locator information is login_sign_in_Button_xpath =  //*[text()='Sign In / Join AJIO']
+[INFO] [22:02:22 07_04] Locator information is login_google_button_xpath =  //*[@class='google-login']
+[INFO] [22:02:22 07_04] Locator information is googleAccounts_emailID_textbox_xpath =  //*[@id='identifierId']
+[INFO] [22:02:22 07_04] Locator information is googleAccounts_nextemail_button_xpath =  (//*[@jsname='V67aGc'])[1]
+[INFO] [22:02:22 07_04] Locator information is googleAccounts_Pw_textbox_id =  password
+[INFO] [22:02:22 07_19] 2022/02/22 19:19:23
+[INFO] [22:02:22 07_19] 0222191923
+[INFO] [22:02:22 07_19] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [22:02:22 07_19] Properties loaded successfuly
+[INFO] [22:02:22 07_19] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [22:02:22 07_19] Properties loaded successfuly
+[INFO] [22:02:22 07_19] File Invoked successfully
+[INFO] [22:02:22 07_19] Browser invoked successfully
+[INFO] [22:02:22 07_19] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [22:02:22 07_19] Performing Login operation
+[INFO] [22:02:22 07_19] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [22:02:22 07_19] Username entered : gcreddy1997@gmail.com
+[INFO] [22:02:22 07_19] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [22:02:22 07_19] Password entered : Madhavi@1206
+[INFO] [22:02:22 07_19] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [22:02:22 07_19] Submit button clicked
+[INFO] [22:02:22 07_44] 2022/02/22 19:44:41
+[INFO] [22:02:22 07_44] 0222194441
+[INFO] [22:02:22 07_44] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [22:02:22 07_44] Properties loaded successfuly
+[INFO] [22:02:22 07_44] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [22:02:22 07_44] Properties loaded successfuly
+[INFO] [22:02:22 07_44] File Invoked successfully
+[INFO] [22:02:22 07_44] provided cell vlaue is :Yes
+[INFO] [22:02:22 07_44] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [22:02:22 07_44] provided cell vlaue is :Madhavi@1206
+[INFO] [22:02:22 07_44] provided cell vlaue is :valid
+[INFO] [22:02:22 07_44] provided cell vlaue is :UiBank
+[INFO] [22:02:22 07_44] provided cell vlaue is :Yes
+[INFO] [22:02:22 07_44] provided cell vlaue is :invalid
+[INFO] [22:02:22 07_44] provided cell vlaue is :Madhavi@1206
+[INFO] [22:02:22 07_44] provided cell vlaue is :invalid
+[INFO] [22:02:22 07_44] provided cell vlaue is :login failed
+[INFO] [22:02:22 07_44] provided cell vlaue is :Yes
+[INFO] [22:02:22 07_44] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [22:02:22 07_44] provided cell vlaue is :invalid
+[INFO] [22:02:22 07_44] provided cell vlaue is :invalid
+[INFO] [22:02:22 07_44] provided cell vlaue is :login failed
+[INFO] [22:02:22 07_44] provided cell vlaue is :Yes
+[INFO] [22:02:22 07_44] provided cell vlaue is :
+[INFO] [22:02:22 07_44] provided cell vlaue is :Madhavi@1206
+[INFO] [22:02:22 07_44] provided cell vlaue is :Invalid
+[INFO] [22:02:22 07_44] provided cell vlaue is :username or email is required
+[INFO] [22:02:22 07_44] provided cell vlaue is :Yes
+[INFO] [22:02:22 07_44] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [22:02:22 07_44] provided cell vlaue is :
+[INFO] [22:02:22 07_44] provided cell vlaue is :invalid
+[INFO] [22:02:22 07_44] provided cell vlaue is :login failed
+[INFO] [22:02:22 07_44] Browser invoked successfully
+[INFO] [22:02:22 07_44] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [22:02:22 07_44] Performing Login operation
+[INFO] [22:02:22 07_44] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [22:02:22 07_44] Username entered : gcreddy1997@gmail.com
+[INFO] [22:02:22 07_44] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [22:02:22 07_44] Password entered : Madhavi@1206
+[INFO] [22:02:22 07_44] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [22:02:22 07_44] Submit button clicked
+[INFO] [22:02:22 07_44] Browser invoked successfully
+[INFO] [22:02:22 07_44] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [22:02:22 07_44] Performing Login operation
+[INFO] [22:02:22 07_44] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [22:02:22 07_44] Username entered : invalid
+[INFO] [22:02:22 07_44] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [22:02:22 07_44] Password entered : Madhavi@1206
+[INFO] [22:02:22 07_44] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [22:02:22 07_45] Submit button clicked
+[INFO] [22:02:22 07_45] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [22:02:22 07_45] Browser invoked successfully
+[INFO] [22:02:22 07_45] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [22:02:22 07_45] Performing Login operation
+[INFO] [22:02:22 07_45] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [22:02:22 07_45] Username entered : gcreddy1997@gmail.com
+[INFO] [22:02:22 07_45] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [22:02:22 07_45] Password entered : invalid
+[INFO] [22:02:22 07_45] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [22:02:22 07_45] Submit button clicked
+[INFO] [22:02:22 07_45] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [22:02:22 07_45] Browser invoked successfully
+[INFO] [22:02:22 07_45] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [22:02:22 07_45] Performing Login operation
+[INFO] [22:02:22 07_45] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [22:02:22 07_45] Username entered : 
+[INFO] [22:02:22 07_45] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [22:02:22 07_45] Password entered : Madhavi@1206
+[INFO] [22:02:22 07_45] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [22:02:22 07_45] Submit button clicked
+[INFO] [22:02:22 07_45] Locator information is Login_nullun_message_xpath =  //*[text()=' username or email is required ']
+[INFO] [22:02:22 07_45] Browser invoked successfully
+[INFO] [22:02:22 07_45] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [22:02:22 07_45] Performing Login operation
+[INFO] [22:02:22 07_45] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [22:02:22 07_45] Username entered : gcreddy1997@gmail.com
+[INFO] [22:02:22 07_45] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [22:02:22 07_45] Password entered : 
+[INFO] [22:02:22 07_45] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [22:02:22 07_45] Submit button clicked
+[INFO] [22:02:22 07_45] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [24:02:22 07_18] 2022/02/24 19:18:56
+[INFO] [24:02:22 07_18] 0224191856
+[INFO] [24:02:22 07_18] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [24:02:22 07_18] Properties loaded successfuly
+[INFO] [24:02:22 07_18] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [24:02:22 07_18] Properties loaded successfuly
+[INFO] [24:02:22 07_18] File Invoked successfully
+[INFO] [24:02:22 07_19] Browser invoked successfully
+[INFO] [24:02:22 07_19] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [24:02:22 07_19] Performing Login operation
+[INFO] [24:02:22 07_19] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [24:02:22 07_19] Username entered : gcreddy1997@gmail.com
+[INFO] [24:02:22 07_19] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [24:02:22 07_19] Password entered : Madhavi@1206
+[INFO] [24:02:22 07_19] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [24:02:22 07_19] Submit button clicked
+[INFO] [24:02:22 07_23] 2022/02/24 19:23:29
+[INFO] [24:02:22 07_23] 0224192329
+[INFO] [24:02:22 07_23] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [24:02:22 07_23] Properties loaded successfuly
+[INFO] [24:02:22 07_23] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [24:02:22 07_23] Properties loaded successfuly
+[INFO] [24:02:22 07_23] File Invoked successfully
+[INFO] [24:02:22 07_24] 2022/02/24 19:24:25
+[INFO] [24:02:22 07_24] 0224192425
+[INFO] [24:02:22 07_24] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [24:02:22 07_24] Properties loaded successfuly
+[INFO] [24:02:22 07_24] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [24:02:22 07_24] Properties loaded successfuly
+[INFO] [24:02:22 07_24] File Invoked successfully
+[INFO] [24:02:22 07_24] provided cell vlaue is :Yes
+[INFO] [24:02:22 07_24] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [24:02:22 07_24] provided cell vlaue is :Madhavi@1206
+[INFO] [24:02:22 07_24] provided cell vlaue is :valid
+[INFO] [24:02:22 07_24] provided cell vlaue is :UiBank
+[INFO] [24:02:22 07_24] provided cell vlaue is :Yes
+[INFO] [24:02:22 07_24] provided cell vlaue is :invalid
+[INFO] [24:02:22 07_24] provided cell vlaue is :Madhavi@1206
+[INFO] [24:02:22 07_24] provided cell vlaue is :invalid
+[INFO] [24:02:22 07_24] provided cell vlaue is :login failed
+[INFO] [24:02:22 07_24] provided cell vlaue is :Yes
+[INFO] [24:02:22 07_24] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [24:02:22 07_24] provided cell vlaue is :invalid
+[INFO] [24:02:22 07_24] provided cell vlaue is :invalid
+[INFO] [24:02:22 07_24] provided cell vlaue is :login failed
+[INFO] [24:02:22 07_24] provided cell vlaue is :Yes
+[INFO] [24:02:22 07_24] provided cell vlaue is :
+[INFO] [24:02:22 07_24] provided cell vlaue is :Madhavi@1206
+[INFO] [24:02:22 07_24] provided cell vlaue is :Invalid
+[INFO] [24:02:22 07_24] provided cell vlaue is :username or email is required
+[INFO] [24:02:22 07_24] provided cell vlaue is :Yes
+[INFO] [24:02:22 07_24] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [24:02:22 07_24] provided cell vlaue is :
+[INFO] [24:02:22 07_24] provided cell vlaue is :invalid
+[INFO] [24:02:22 07_24] provided cell vlaue is :login failed
+[INFO] [24:02:22 07_24] Browser invoked successfully
+[INFO] [24:02:22 07_24] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [24:02:22 07_24] Performing Login operation
+[INFO] [24:02:22 07_24] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [24:02:22 07_24] Username entered : gcreddy1997@gmail.com
+[INFO] [24:02:22 07_24] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [24:02:22 07_24] Password entered : Madhavi@1206
+[INFO] [24:02:22 07_24] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [24:02:22 07_24] Submit button clicked
+[INFO] [24:02:22 07_24] Browser invoked successfully
+[INFO] [24:02:22 07_24] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [24:02:22 07_24] Performing Login operation
+[INFO] [24:02:22 07_24] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [24:02:22 07_24] Username entered : invalid
+[INFO] [24:02:22 07_24] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [24:02:22 07_24] Password entered : Madhavi@1206
+[INFO] [24:02:22 07_24] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [24:02:22 07_24] Submit button clicked
+[INFO] [24:02:22 07_24] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [24:02:22 07_24] Browser invoked successfully
+[INFO] [24:02:22 07_24] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [24:02:22 07_24] Performing Login operation
+[INFO] [24:02:22 07_24] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [24:02:22 07_24] Username entered : gcreddy1997@gmail.com
+[INFO] [24:02:22 07_24] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [24:02:22 07_24] Password entered : invalid
+[INFO] [24:02:22 07_24] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [24:02:22 07_24] Submit button clicked
+[INFO] [24:02:22 07_24] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [24:02:22 07_24] Browser invoked successfully
+[INFO] [24:02:22 07_25] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [24:02:22 07_25] Performing Login operation
+[INFO] [24:02:22 07_25] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [24:02:22 07_25] Username entered : 
+[INFO] [24:02:22 07_25] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [24:02:22 07_25] Password entered : Madhavi@1206
+[INFO] [24:02:22 07_25] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [24:02:22 07_25] Submit button clicked
+[INFO] [24:02:22 07_25] Locator information is Login_nullun_message_xpath =  //*[text()=' username or email is required ']
+[INFO] [24:02:22 07_25] Browser invoked successfully
+[INFO] [24:02:22 07_25] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [24:02:22 07_25] Performing Login operation
+[INFO] [24:02:22 07_25] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [24:02:22 07_25] Username entered : gcreddy1997@gmail.com
+[INFO] [24:02:22 07_25] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [24:02:22 07_25] Password entered : 
+[INFO] [24:02:22 07_25] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [24:02:22 07_25] Submit button clicked
+[INFO] [24:02:22 07_25] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [24:02:22 08_09] 2022/02/24 20:09:19
+[INFO] [24:02:22 08_09] 0224200919
+[INFO] [24:02:22 08_09] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [24:02:22 08_09] Properties loaded successfuly
+[INFO] [24:02:22 08_09] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [24:02:22 08_09] Properties loaded successfuly
+[INFO] [24:02:22 08_09] File Invoked successfully
+[INFO] [24:02:22 08_09] provided cell vlaue is :Yes
+[INFO] [24:02:22 08_09] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [24:02:22 08_09] provided cell vlaue is :Madhavi@1206
+[INFO] [24:02:22 08_09] provided cell vlaue is :valid
+[INFO] [24:02:22 08_09] provided cell vlaue is :UiBank
+[INFO] [24:02:22 08_09] provided cell vlaue is :Yes
+[INFO] [24:02:22 08_09] provided cell vlaue is :invalid
+[INFO] [24:02:22 08_09] provided cell vlaue is :Madhavi@1206
+[INFO] [24:02:22 08_09] provided cell vlaue is :invalid
+[INFO] [24:02:22 08_09] provided cell vlaue is :login failed
+[INFO] [24:02:22 08_09] provided cell vlaue is :Yes
+[INFO] [24:02:22 08_09] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [24:02:22 08_09] provided cell vlaue is :invalid
+[INFO] [24:02:22 08_09] provided cell vlaue is :invalid
+[INFO] [24:02:22 08_09] provided cell vlaue is :login failed
+[INFO] [24:02:22 08_09] provided cell vlaue is :Yes
+[INFO] [24:02:22 08_09] provided cell vlaue is :
+[INFO] [24:02:22 08_09] provided cell vlaue is :Madhavi@1206
+[INFO] [24:02:22 08_09] provided cell vlaue is :Invalid
+[INFO] [24:02:22 08_09] provided cell vlaue is :username or email is required
+[INFO] [24:02:22 08_09] provided cell vlaue is :Yes
+[INFO] [24:02:22 08_09] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [24:02:22 08_09] provided cell vlaue is :
+[INFO] [24:02:22 08_09] provided cell vlaue is :invalid
+[INFO] [24:02:22 08_09] provided cell vlaue is :login failed
+[INFO] [24:02:22 08_09] Browser invoked successfully
+[INFO] [24:02:22 08_09] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [24:02:22 08_09] Performing Login operation
+[INFO] [24:02:22 08_09] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [24:02:22 08_09] Username entered : gcreddy1997@gmail.com
+[INFO] [24:02:22 08_09] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [24:02:22 08_09] Password entered : Madhavi@1206
+[INFO] [24:02:22 08_09] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [24:02:22 08_09] Submit button clicked
+[INFO] [24:02:22 08_09] Browser invoked successfully
+[INFO] [24:02:22 08_09] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [24:02:22 08_09] Performing Login operation
+[INFO] [24:02:22 08_09] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [24:02:22 08_09] Username entered : invalid
+[INFO] [24:02:22 08_09] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [24:02:22 08_09] Password entered : Madhavi@1206
+[INFO] [24:02:22 08_09] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [24:02:22 08_09] Submit button clicked
+[INFO] [24:02:22 08_09] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [24:02:22 08_09] Browser invoked successfully
+[INFO] [24:02:22 08_09] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [24:02:22 08_09] Performing Login operation
+[INFO] [24:02:22 08_09] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [24:02:22 08_09] Username entered : gcreddy1997@gmail.com
+[INFO] [24:02:22 08_09] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [24:02:22 08_09] Password entered : invalid
+[INFO] [24:02:22 08_09] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [24:02:22 08_09] Submit button clicked
+[INFO] [24:02:22 08_09] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [24:02:22 08_09] Browser invoked successfully
+[INFO] [24:02:22 08_09] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [24:02:22 08_09] Performing Login operation
+[INFO] [24:02:22 08_09] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [24:02:22 08_10] Username entered : 
+[INFO] [24:02:22 08_10] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [24:02:22 08_10] Password entered : Madhavi@1206
+[INFO] [24:02:22 08_10] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [24:02:22 08_10] Submit button clicked
+[INFO] [24:02:22 08_10] Locator information is Login_nullun_message_xpath =  //*[text()=' username or email is required ']
+[INFO] [24:02:22 08_10] Browser invoked successfully
+[INFO] [24:02:22 08_10] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [24:02:22 08_10] Performing Login operation
+[INFO] [24:02:22 08_10] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [24:02:22 08_10] Username entered : gcreddy1997@gmail.com
+[INFO] [24:02:22 08_10] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [24:02:22 08_10] Password entered : 
+[INFO] [24:02:22 08_10] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [24:02:22 08_10] Submit button clicked
+[INFO] [24:02:22 08_10] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [24:02:22 08_10] 2022/02/24 20:10:57
+[INFO] [24:02:22 08_10] 0224201057
+[INFO] [24:02:22 08_10] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [24:02:22 08_10] Properties loaded successfuly
+[INFO] [24:02:22 08_10] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [24:02:22 08_10] Properties loaded successfuly
+[INFO] [24:02:22 08_10] File Invoked successfully
+[INFO] [24:02:22 08_10] provided cell vlaue is :Yes
+[INFO] [24:02:22 08_10] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [24:02:22 08_10] provided cell vlaue is :Madhavi@1206
+[INFO] [24:02:22 08_10] provided cell vlaue is :valid
+[INFO] [24:02:22 08_10] provided cell vlaue is :UiBank
+[INFO] [24:02:22 08_10] provided cell vlaue is :Yes
+[INFO] [24:02:22 08_10] provided cell vlaue is :invalid
+[INFO] [24:02:22 08_10] provided cell vlaue is :Madhavi@1206
+[INFO] [24:02:22 08_10] provided cell vlaue is :invalid
+[INFO] [24:02:22 08_10] provided cell vlaue is :login failed
+[INFO] [24:02:22 08_10] provided cell vlaue is :Yes
+[INFO] [24:02:22 08_10] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [24:02:22 08_10] provided cell vlaue is :invalid
+[INFO] [24:02:22 08_10] provided cell vlaue is :invalid
+[INFO] [24:02:22 08_10] provided cell vlaue is :login failed
+[INFO] [24:02:22 08_10] provided cell vlaue is :Yes
+[INFO] [24:02:22 08_10] provided cell vlaue is :
+[INFO] [24:02:22 08_10] provided cell vlaue is :Madhavi@1206
+[INFO] [24:02:22 08_10] provided cell vlaue is :Invalid
+[INFO] [24:02:22 08_10] provided cell vlaue is :username or email is required
+[INFO] [24:02:22 08_10] provided cell vlaue is :Yes
+[INFO] [24:02:22 08_10] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [24:02:22 08_10] provided cell vlaue is :
+[INFO] [24:02:22 08_10] provided cell vlaue is :invalid
+[INFO] [24:02:22 08_10] provided cell vlaue is :login failed
+[INFO] [24:02:22 08_11] Browser invoked successfully
+[INFO] [24:02:22 08_11] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [24:02:22 08_11] Performing Login operation
+[INFO] [24:02:22 08_11] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [24:02:22 08_11] Username entered : gcreddy1997@gmail.com
+[INFO] [24:02:22 08_11] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [24:02:22 08_11] Password entered : Madhavi@1206
+[INFO] [24:02:22 08_11] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [24:02:22 08_11] Submit button clicked
+[INFO] [24:02:22 08_11] Browser invoked successfully
+[INFO] [24:02:22 08_11] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [24:02:22 08_11] Performing Login operation
+[INFO] [24:02:22 08_11] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [24:02:22 08_11] Username entered : invalid
+[INFO] [24:02:22 08_11] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [24:02:22 08_11] Password entered : Madhavi@1206
+[INFO] [24:02:22 08_11] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [24:02:22 08_11] Submit button clicked
+[INFO] [24:02:22 08_11] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [24:02:22 08_11] Browser invoked successfully
+[INFO] [24:02:22 08_11] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [24:02:22 08_11] Performing Login operation
+[INFO] [24:02:22 08_11] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [24:02:22 08_11] Username entered : gcreddy1997@gmail.com
+[INFO] [24:02:22 08_11] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [24:02:22 08_11] Password entered : invalid
+[INFO] [24:02:22 08_11] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [24:02:22 08_11] Submit button clicked
+[INFO] [24:02:22 08_11] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [24:02:22 08_11] Browser invoked successfully
+[INFO] [24:02:22 08_11] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [24:02:22 08_11] Performing Login operation
+[INFO] [24:02:22 08_11] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [24:02:22 08_11] Username entered : 
+[INFO] [24:02:22 08_11] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [24:02:22 08_11] Password entered : Madhavi@1206
+[INFO] [24:02:22 08_11] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [24:02:22 08_11] Submit button clicked
+[INFO] [24:02:22 08_11] Locator information is Login_nullun_message_xpath =  //*[text()=' username or email is required ']
+[INFO] [24:02:22 08_11] Browser invoked successfully
+[INFO] [24:02:22 08_11] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [24:02:22 08_11] Performing Login operation
+[INFO] [24:02:22 08_11] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [24:02:22 08_11] Username entered : gcreddy1997@gmail.com
+[INFO] [24:02:22 08_11] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [24:02:22 08_11] Password entered : 
+[INFO] [24:02:22 08_11] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [24:02:22 08_11] Submit button clicked
+[INFO] [24:02:22 08_11] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [24:02:22 08_12] 2022/02/24 20:12:21
+[INFO] [24:02:22 08_12] 0224201221
+[INFO] [24:02:22 08_12] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [24:02:22 08_12] Properties loaded successfuly
+[INFO] [24:02:22 08_12] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [24:02:22 08_12] Properties loaded successfuly
+[INFO] [24:02:22 08_12] File Invoked successfully
+[INFO] [24:02:22 08_12] provided cell vlaue is :Yes
+[INFO] [24:02:22 08_12] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [24:02:22 08_12] provided cell vlaue is :Madhavi@1206
+[INFO] [24:02:22 08_12] provided cell vlaue is :valid
+[INFO] [24:02:22 08_12] provided cell vlaue is :UiBank
+[INFO] [24:02:22 08_12] provided cell vlaue is :Yes
+[INFO] [24:02:22 08_12] provided cell vlaue is :invalid
+[INFO] [24:02:22 08_12] provided cell vlaue is :Madhavi@1206
+[INFO] [24:02:22 08_12] provided cell vlaue is :invalid
+[INFO] [24:02:22 08_12] provided cell vlaue is :login failed
+[INFO] [24:02:22 08_12] provided cell vlaue is :Yes
+[INFO] [24:02:22 08_12] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [24:02:22 08_12] provided cell vlaue is :invalid
+[INFO] [24:02:22 08_12] provided cell vlaue is :invalid
+[INFO] [24:02:22 08_12] provided cell vlaue is :login failed
+[INFO] [24:02:22 08_12] provided cell vlaue is :Yes
+[INFO] [24:02:22 08_12] provided cell vlaue is :
+[INFO] [24:02:22 08_12] provided cell vlaue is :Madhavi@1206
+[INFO] [24:02:22 08_12] provided cell vlaue is :Invalid
+[INFO] [24:02:22 08_12] provided cell vlaue is :username or email is required
+[INFO] [24:02:22 08_12] provided cell vlaue is :Yes
+[INFO] [24:02:22 08_12] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [24:02:22 08_12] provided cell vlaue is :
+[INFO] [24:02:22 08_12] provided cell vlaue is :invalid
+[INFO] [24:02:22 08_12] provided cell vlaue is :login failed
+[INFO] [24:02:22 08_12] Browser invoked successfully
+[INFO] [24:02:22 08_12] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [24:02:22 08_12] Performing Login operation
+[INFO] [24:02:22 08_12] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [24:02:22 08_12] Username entered : gcreddy1997@gmail.com
+[INFO] [24:02:22 08_12] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [24:02:22 08_12] Password entered : Madhavi@1206
+[INFO] [24:02:22 08_12] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [24:02:22 08_12] Submit button clicked
+[INFO] [24:02:22 08_12] Browser invoked successfully
+[INFO] [24:02:22 08_12] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [24:02:22 08_12] Performing Login operation
+[INFO] [24:02:22 08_12] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [24:02:22 08_12] Username entered : invalid
+[INFO] [24:02:22 08_12] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [24:02:22 08_12] Password entered : Madhavi@1206
+[INFO] [24:02:22 08_12] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [24:02:22 08_12] Submit button clicked
+[INFO] [24:02:22 08_12] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [24:02:22 08_12] Browser invoked successfully
+[INFO] [24:02:22 08_12] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [24:02:22 08_12] Performing Login operation
+[INFO] [24:02:22 08_12] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [24:02:22 08_12] Username entered : gcreddy1997@gmail.com
+[INFO] [24:02:22 08_12] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [24:02:22 08_12] Password entered : invalid
+[INFO] [24:02:22 08_12] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [24:02:22 08_12] Submit button clicked
+[INFO] [24:02:22 08_12] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [24:02:22 08_12] Browser invoked successfully
+[INFO] [24:02:22 08_12] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [24:02:22 08_12] Performing Login operation
+[INFO] [24:02:22 08_12] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [24:02:22 08_12] Username entered : 
+[INFO] [24:02:22 08_12] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [24:02:22 08_12] Password entered : Madhavi@1206
+[INFO] [24:02:22 08_12] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [24:02:22 08_12] Submit button clicked
+[INFO] [24:02:22 08_12] Locator information is Login_nullun_message_xpath =  //*[text()=' username or email is required ']
+[INFO] [24:02:22 08_13] Browser invoked successfully
+[INFO] [24:02:22 08_13] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [24:02:22 08_13] Performing Login operation
+[INFO] [24:02:22 08_13] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [24:02:22 08_13] Username entered : gcreddy1997@gmail.com
+[INFO] [24:02:22 08_13] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [24:02:22 08_13] Password entered : 
+[INFO] [24:02:22 08_13] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [24:02:22 08_13] Submit button clicked
+[INFO] [24:02:22 08_13] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [26:02:22 09_44] 2022/02/26 09:44:34
+[INFO] [26:02:22 09_44] 0226094434
+[INFO] [26:02:22 09_44] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [26:02:22 09_44] Properties loaded successfuly
+[INFO] [26:02:22 09_44] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [26:02:22 09_44] Properties loaded successfuly
+[INFO] [26:02:22 09_44] File Invoked successfully
+[INFO] [26:02:22 09_44] provided cell vlaue is :Yes
+[INFO] [26:02:22 09_44] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [26:02:22 09_44] provided cell vlaue is :Madhavi@1206
+[INFO] [26:02:22 09_44] provided cell vlaue is :valid
+[INFO] [26:02:22 09_44] provided cell vlaue is :UiBank
+[INFO] [26:02:22 09_44] provided cell vlaue is :Yes
+[INFO] [26:02:22 09_44] provided cell vlaue is :invalid
+[INFO] [26:02:22 09_44] provided cell vlaue is :Madhavi@1206
+[INFO] [26:02:22 09_44] provided cell vlaue is :invalid
+[INFO] [26:02:22 09_44] provided cell vlaue is :login failed
+[INFO] [26:02:22 09_44] provided cell vlaue is :Yes
+[INFO] [26:02:22 09_44] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [26:02:22 09_44] provided cell vlaue is :invalid
+[INFO] [26:02:22 09_44] provided cell vlaue is :invalid
+[INFO] [26:02:22 09_44] provided cell vlaue is :login failed
+[INFO] [26:02:22 09_44] provided cell vlaue is :Yes
+[INFO] [26:02:22 09_44] provided cell vlaue is :
+[INFO] [26:02:22 09_44] provided cell vlaue is :Madhavi@1206
+[INFO] [26:02:22 09_44] provided cell vlaue is :Invalid
+[INFO] [26:02:22 09_44] provided cell vlaue is :username or email is required
+[INFO] [26:02:22 09_44] provided cell vlaue is :Yes
+[INFO] [26:02:22 09_44] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [26:02:22 09_44] provided cell vlaue is :
+[INFO] [26:02:22 09_44] provided cell vlaue is :invalid
+[INFO] [26:02:22 09_44] provided cell vlaue is :login failed
+[INFO] [26:02:22 09_44] Browser invoked successfully
+[INFO] [26:02:22 09_44] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [26:02:22 09_44] Performing Login operation
+[INFO] [26:02:22 09_44] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [26:02:22 09_44] Username entered : gcreddy1997@gmail.com
+[INFO] [26:02:22 09_44] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [26:02:22 09_44] Password entered : Madhavi@1206
+[INFO] [26:02:22 09_44] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [26:02:22 09_44] Submit button clicked
+[INFO] [26:02:22 09_44] Browser invoked successfully
+[INFO] [26:02:22 09_44] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [26:02:22 09_44] Performing Login operation
+[INFO] [26:02:22 09_44] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [26:02:22 09_44] Username entered : invalid
+[INFO] [26:02:22 09_44] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [26:02:22 09_44] Password entered : Madhavi@1206
+[INFO] [26:02:22 09_44] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [26:02:22 09_44] Submit button clicked
+[INFO] [26:02:22 09_44] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [26:02:22 09_44] Browser invoked successfully
+[INFO] [26:02:22 09_45] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [26:02:22 09_45] Performing Login operation
+[INFO] [26:02:22 09_45] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [26:02:22 09_45] Username entered : gcreddy1997@gmail.com
+[INFO] [26:02:22 09_45] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [26:02:22 09_45] Password entered : invalid
+[INFO] [26:02:22 09_45] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [26:02:22 09_45] Submit button clicked
+[INFO] [26:02:22 09_45] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [26:02:22 09_45] Browser invoked successfully
+[INFO] [26:02:22 09_45] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [26:02:22 09_45] Performing Login operation
+[INFO] [26:02:22 09_45] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [26:02:22 09_45] Username entered : 
+[INFO] [26:02:22 09_45] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [26:02:22 09_45] Password entered : Madhavi@1206
+[INFO] [26:02:22 09_45] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [26:02:22 09_45] Submit button clicked
+[INFO] [26:02:22 09_45] Locator information is Login_nullun_message_xpath =  //*[text()=' username or email is required ']
+[INFO] [26:02:22 09_45] Browser invoked successfully
+[INFO] [26:02:22 09_45] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [26:02:22 09_45] Performing Login operation
+[INFO] [26:02:22 09_45] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [26:02:22 09_45] Username entered : gcreddy1997@gmail.com
+[INFO] [26:02:22 09_45] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [26:02:22 09_45] Password entered : 
+[INFO] [26:02:22 09_45] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [26:02:22 09_45] Submit button clicked
+[INFO] [26:02:22 09_45] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [26:02:22 09_48] 2022/02/26 09:48:54
+[INFO] [26:02:22 09_48] 0226094854
+[INFO] [26:02:22 09_48] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [26:02:22 09_48] Properties loaded successfuly
+[INFO] [26:02:22 09_48] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [26:02:22 09_48] Properties loaded successfuly
+[INFO] [26:02:22 09_48] File Invoked successfully
+[ERROR] [26:02:22 09_48]  java.lang.NullPointerException: Cannot invoke "String.equalsIgnoreCase(String)" because "browser" is null
+[INFO] [26:02:22 09_49] 2022/02/26 09:49:38
+[INFO] [26:02:22 09_49] 0226094938
+[INFO] [26:02:22 09_49] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [26:02:22 09_49] Properties loaded successfuly
+[INFO] [26:02:22 09_49] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [26:02:22 09_49] Properties loaded successfuly
+[INFO] [26:02:22 09_49] File Invoked successfully
+[INFO] [26:02:22 09_49] Browser invoked successfully
+[INFO] [26:02:22 09_49] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [26:02:22 09_49] Performing Login operation
+[INFO] [26:02:22 09_49] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [26:02:22 09_49] Username entered : gcreddy1997@gmail.com
+[INFO] [26:02:22 09_49] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [26:02:22 09_49] Password entered : Madhavi@1206
+[INFO] [26:02:22 09_49] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [26:02:22 09_49] Submit button clicked
+[INFO] [26:02:22 09_51] 2022/02/26 09:51:04
+[INFO] [26:02:22 09_51] 0226095104
+[INFO] [26:02:22 09_51] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [26:02:22 09_51] Properties loaded successfuly
+[INFO] [26:02:22 09_51] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [26:02:22 09_51] Properties loaded successfuly
+[INFO] [26:02:22 09_51] File Invoked successfully
+[INFO] [26:02:22 09_51] provided cell vlaue is :Yes
+[INFO] [26:02:22 09_51] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [26:02:22 09_51] provided cell vlaue is :Madhavi@1206
+[INFO] [26:02:22 09_51] provided cell vlaue is :valid
+[INFO] [26:02:22 09_51] provided cell vlaue is :UiBank
+[INFO] [26:02:22 09_51] provided cell vlaue is :Yes
+[INFO] [26:02:22 09_51] provided cell vlaue is :invalid
+[INFO] [26:02:22 09_51] provided cell vlaue is :Madhavi@1206
+[INFO] [26:02:22 09_51] provided cell vlaue is :invalid
+[INFO] [26:02:22 09_51] provided cell vlaue is :login failed
+[INFO] [26:02:22 09_51] provided cell vlaue is :Yes
+[INFO] [26:02:22 09_51] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [26:02:22 09_51] provided cell vlaue is :invalid
+[INFO] [26:02:22 09_51] provided cell vlaue is :invalid
+[INFO] [26:02:22 09_51] provided cell vlaue is :login failed
+[INFO] [26:02:22 09_51] provided cell vlaue is :Yes
+[INFO] [26:02:22 09_51] provided cell vlaue is :
+[INFO] [26:02:22 09_51] provided cell vlaue is :Madhavi@1206
+[INFO] [26:02:22 09_51] provided cell vlaue is :Invalid
+[INFO] [26:02:22 09_51] provided cell vlaue is :username or email is required
+[INFO] [26:02:22 09_51] provided cell vlaue is :Yes
+[INFO] [26:02:22 09_51] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [26:02:22 09_51] provided cell vlaue is :
+[INFO] [26:02:22 09_51] provided cell vlaue is :invalid
+[INFO] [26:02:22 09_51] provided cell vlaue is :login failed
+[INFO] [26:02:22 09_51] Browser invoked successfully
+[INFO] [26:02:22 09_51] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [26:02:22 09_51] Performing Login operation
+[INFO] [26:02:22 09_51] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [26:02:22 09_51] Username entered : gcreddy1997@gmail.com
+[INFO] [26:02:22 09_51] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [26:02:22 09_51] Password entered : Madhavi@1206
+[INFO] [26:02:22 09_51] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [26:02:22 09_51] Submit button clicked
+[INFO] [26:02:22 09_51] Browser invoked successfully
+[INFO] [26:02:22 09_51] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [26:02:22 09_51] Performing Login operation
+[INFO] [26:02:22 09_51] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [26:02:22 09_51] Username entered : invalid
+[INFO] [26:02:22 09_51] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [26:02:22 09_51] Password entered : Madhavi@1206
+[INFO] [26:02:22 09_51] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [26:02:22 09_51] Submit button clicked
+[INFO] [26:02:22 09_51] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [26:02:22 09_51] Browser invoked successfully
+[INFO] [26:02:22 09_51] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [26:02:22 09_51] Performing Login operation
+[INFO] [26:02:22 09_51] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [26:02:22 09_51] Username entered : gcreddy1997@gmail.com
+[INFO] [26:02:22 09_51] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [26:02:22 09_51] Password entered : invalid
+[INFO] [26:02:22 09_51] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [26:02:22 09_51] Submit button clicked
+[INFO] [26:02:22 09_51] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [26:02:22 09_51] Browser invoked successfully
+[INFO] [26:02:22 09_51] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [26:02:22 09_51] Performing Login operation
+[INFO] [26:02:22 09_51] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [26:02:22 09_51] Username entered : 
+[INFO] [26:02:22 09_51] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [26:02:22 09_51] Password entered : Madhavi@1206
+[INFO] [26:02:22 09_51] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [26:02:22 09_51] Submit button clicked
+[INFO] [26:02:22 09_51] Locator information is Login_nullun_message_xpath =  //*[text()=' username or email is required ']
+[INFO] [26:02:22 09_51] Browser invoked successfully
+[INFO] [26:02:22 09_51] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [26:02:22 09_51] Performing Login operation
+[INFO] [26:02:22 09_51] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [26:02:22 09_51] Username entered : gcreddy1997@gmail.com
+[INFO] [26:02:22 09_51] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [26:02:22 09_51] Password entered : 
+[INFO] [26:02:22 09_51] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [26:02:22 09_51] Submit button clicked
+[INFO] [26:02:22 09_51] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [26:02:22 10_10] 2022/02/26 10:10:43
+[INFO] [26:02:22 10_10] 0226101043
+[INFO] [26:02:22 10_10] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [26:02:22 10_10] Properties loaded successfuly
+[INFO] [26:02:22 10_10] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [26:02:22 10_10] Properties loaded successfuly
+[INFO] [26:02:22 10_10] File Invoked successfully
+[INFO] [26:02:22 10_10] Browser invoked successfully
+[INFO] [26:02:22 10_10] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [26:02:22 10_10] Performing Login operation
+[INFO] [26:02:22 10_10] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [26:02:22 10_10] Username entered : gcreddy1997@gmail.com
+[INFO] [26:02:22 10_10] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [26:02:22 10_10] Password entered : Madhavi@1206
+[INFO] [26:02:22 10_10] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [26:02:22 10_10] Submit button clicked
+[INFO] [26:02:22 10_12] 2022/02/26 10:12:42
+[INFO] [26:02:22 10_12] 0226101242
+[INFO] [26:02:22 10_12] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [26:02:22 10_12] Properties loaded successfuly
+[INFO] [26:02:22 10_12] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [26:02:22 10_12] Properties loaded successfuly
+[INFO] [26:02:22 10_12] File Invoked successfully
+[INFO] [26:02:22 10_12] Browser invoked successfully
+[INFO] [26:02:22 10_12] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [26:02:22 10_12] Performing Login operation
+[INFO] [26:02:22 10_12] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [26:02:22 10_12] Username entered : gcreddy1997@gmail.com
+[INFO] [26:02:22 10_12] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [26:02:22 10_12] Password entered : Madhavi@1206
+[INFO] [26:02:22 10_12] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [26:02:22 10_12] Submit button clicked
+[INFO] [26:02:22 10_16] 2022/02/26 10:16:57
+[INFO] [26:02:22 10_16] 0226101657
+[INFO] [26:02:22 10_16] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [26:02:22 10_16] Properties loaded successfuly
+[INFO] [26:02:22 10_16] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [26:02:22 10_16] Properties loaded successfuly
+[INFO] [26:02:22 10_16] File Invoked successfully
+[INFO] [26:02:22 10_16] provided cell vlaue is :Yes
+[INFO] [26:02:22 10_16] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [26:02:22 10_16] provided cell vlaue is :Madhavi@1206
+[INFO] [26:02:22 10_16] provided cell vlaue is :valid
+[INFO] [26:02:22 10_16] provided cell vlaue is :UiBank
+[INFO] [26:02:22 10_16] provided cell vlaue is :Yes
+[INFO] [26:02:22 10_16] provided cell vlaue is :invalid
+[INFO] [26:02:22 10_16] provided cell vlaue is :Madhavi@1206
+[INFO] [26:02:22 10_16] provided cell vlaue is :invalid
+[INFO] [26:02:22 10_16] provided cell vlaue is :login failed
+[INFO] [26:02:22 10_16] provided cell vlaue is :Yes
+[INFO] [26:02:22 10_16] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [26:02:22 10_16] provided cell vlaue is :invalid
+[INFO] [26:02:22 10_16] provided cell vlaue is :invalid
+[INFO] [26:02:22 10_16] provided cell vlaue is :login failed
+[INFO] [26:02:22 10_16] provided cell vlaue is :Yes
+[INFO] [26:02:22 10_16] provided cell vlaue is :
+[INFO] [26:02:22 10_16] provided cell vlaue is :Madhavi@1206
+[INFO] [26:02:22 10_16] provided cell vlaue is :Invalid
+[INFO] [26:02:22 10_16] provided cell vlaue is :username or email is required
+[INFO] [26:02:22 10_16] provided cell vlaue is :Yes
+[INFO] [26:02:22 10_16] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [26:02:22 10_16] provided cell vlaue is :
+[INFO] [26:02:22 10_16] provided cell vlaue is :invalid
+[INFO] [26:02:22 10_16] provided cell vlaue is :login failed
+[INFO] [26:02:22 10_17] Browser invoked successfully
+[INFO] [26:02:22 10_17] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [26:02:22 10_17] Performing Login operation
+[INFO] [26:02:22 10_17] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [26:02:22 10_17] Username entered : gcreddy1997@gmail.com
+[INFO] [26:02:22 10_17] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [26:02:22 10_17] Password entered : Madhavi@1206
+[INFO] [26:02:22 10_17] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [26:02:22 10_17] Submit button clicked
+[INFO] [26:02:22 10_17] Browser invoked successfully
+[INFO] [26:02:22 10_17] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [26:02:22 10_17] Performing Login operation
+[INFO] [26:02:22 10_17] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [26:02:22 10_17] Username entered : invalid
+[INFO] [26:02:22 10_17] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [26:02:22 10_17] Password entered : Madhavi@1206
+[INFO] [26:02:22 10_17] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [26:02:22 10_17] Submit button clicked
+[INFO] [26:02:22 10_17] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [26:02:22 10_17] Browser invoked successfully
+[INFO] [26:02:22 10_17] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [26:02:22 10_17] Performing Login operation
+[INFO] [26:02:22 10_17] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [26:02:22 10_17] Username entered : gcreddy1997@gmail.com
+[INFO] [26:02:22 10_17] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [26:02:22 10_17] Password entered : invalid
+[INFO] [26:02:22 10_17] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [26:02:22 10_17] Submit button clicked
+[INFO] [26:02:22 10_17] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [26:02:22 10_17] Browser invoked successfully
+[INFO] [26:02:22 10_17] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [26:02:22 10_17] Performing Login operation
+[INFO] [26:02:22 10_17] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [26:02:22 10_17] Username entered : 
+[INFO] [26:02:22 10_17] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [26:02:22 10_17] Password entered : Madhavi@1206
+[INFO] [26:02:22 10_17] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [26:02:22 10_17] Submit button clicked
+[INFO] [26:02:22 10_17] Locator information is Login_nullun_message_xpath =  //*[text()=' username or email is required ']
+[INFO] [26:02:22 10_17] Browser invoked successfully
+[INFO] [26:02:22 10_17] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [26:02:22 10_17] Performing Login operation
+[INFO] [26:02:22 10_17] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [26:02:22 10_17] Username entered : gcreddy1997@gmail.com
+[INFO] [26:02:22 10_17] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [26:02:22 10_17] Password entered : 
+[INFO] [26:02:22 10_17] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [26:02:22 10_17] Submit button clicked
+[INFO] [26:02:22 10_17] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [26:02:22 10_25] 2022/02/26 10:25:36
+[INFO] [26:02:22 10_25] 0226102536
+[INFO] [26:02:22 10_25] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [26:02:22 10_25] Properties loaded successfuly
+[INFO] [26:02:22 10_25] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [26:02:22 10_25] Properties loaded successfuly
+[INFO] [26:02:22 10_25] File Invoked successfully
+[INFO] [26:02:22 10_25] Browser invoked successfully
+[INFO] [26:02:22 10_25] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [26:02:22 10_25] Performing Login operation
+[INFO] [26:02:22 10_25] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [26:02:22 10_25] Username entered : gcreddy1997@gmail.com
+[INFO] [26:02:22 10_25] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [26:02:22 10_25] Password entered : Madhavi@1206
+[INFO] [26:02:22 10_25] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [26:02:22 10_25] Submit button clicked
+[INFO] [26:02:22 10_25] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [26:02:22 10_25] Properties loaded successfuly
+[INFO] [26:02:22 10_25] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [26:02:22 10_25] Properties loaded successfuly
+[INFO] [26:02:22 10_25] File Invoked successfully
+[INFO] [26:02:22 10_25] provided cell vlaue is :Yes
+[INFO] [26:02:22 10_25] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [26:02:22 10_25] provided cell vlaue is :Madhavi@1206
+[INFO] [26:02:22 10_25] provided cell vlaue is :valid
+[INFO] [26:02:22 10_25] provided cell vlaue is :UiBank
+[INFO] [26:02:22 10_25] provided cell vlaue is :Yes
+[INFO] [26:02:22 10_25] provided cell vlaue is :invalid
+[INFO] [26:02:22 10_25] provided cell vlaue is :Madhavi@1206
+[INFO] [26:02:22 10_25] provided cell vlaue is :invalid
+[INFO] [26:02:22 10_25] provided cell vlaue is :login failed
+[INFO] [26:02:22 10_25] provided cell vlaue is :Yes
+[INFO] [26:02:22 10_25] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [26:02:22 10_25] provided cell vlaue is :invalid
+[INFO] [26:02:22 10_25] provided cell vlaue is :invalid
+[INFO] [26:02:22 10_25] provided cell vlaue is :login failed
+[INFO] [26:02:22 10_25] provided cell vlaue is :Yes
+[INFO] [26:02:22 10_25] provided cell vlaue is :
+[INFO] [26:02:22 10_25] provided cell vlaue is :Madhavi@1206
+[INFO] [26:02:22 10_25] provided cell vlaue is :Invalid
+[INFO] [26:02:22 10_25] provided cell vlaue is :username or email is required
+[INFO] [26:02:22 10_25] provided cell vlaue is :Yes
+[INFO] [26:02:22 10_25] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [26:02:22 10_25] provided cell vlaue is :
+[INFO] [26:02:22 10_25] provided cell vlaue is :invalid
+[INFO] [26:02:22 10_25] provided cell vlaue is :login failed
+[INFO] [26:02:22 10_25] Browser invoked successfully
+[INFO] [26:02:22 10_25] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [26:02:22 10_25] Performing Login operation
+[INFO] [26:02:22 10_25] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [26:02:22 10_25] Username entered : gcreddy1997@gmail.com
+[INFO] [26:02:22 10_25] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [26:02:22 10_25] Password entered : Madhavi@1206
+[INFO] [26:02:22 10_25] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [26:02:22 10_25] Submit button clicked
+[INFO] [26:02:22 10_25] Browser invoked successfully
+[INFO] [26:02:22 10_26] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [26:02:22 10_26] Performing Login operation
+[INFO] [26:02:22 10_26] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [26:02:22 10_26] Username entered : invalid
+[INFO] [26:02:22 10_26] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [26:02:22 10_26] Password entered : Madhavi@1206
+[INFO] [26:02:22 10_26] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [26:02:22 10_26] Submit button clicked
+[INFO] [26:02:22 10_26] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [26:02:22 10_26] Browser invoked successfully
+[INFO] [26:02:22 10_26] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [26:02:22 10_26] Performing Login operation
+[INFO] [26:02:22 10_26] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [26:02:22 10_26] Username entered : gcreddy1997@gmail.com
+[INFO] [26:02:22 10_26] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [26:02:22 10_26] Password entered : invalid
+[INFO] [26:02:22 10_26] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [26:02:22 10_26] Submit button clicked
+[INFO] [26:02:22 10_26] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [26:02:22 10_26] Browser invoked successfully
+[INFO] [26:02:22 10_26] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [26:02:22 10_26] Performing Login operation
+[INFO] [26:02:22 10_26] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [26:02:22 10_26] Username entered : 
+[INFO] [26:02:22 10_26] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [26:02:22 10_26] Password entered : Madhavi@1206
+[INFO] [26:02:22 10_26] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [26:02:22 10_26] Submit button clicked
+[INFO] [26:02:22 10_26] Locator information is Login_nullun_message_xpath =  //*[text()=' username or email is required ']
+[INFO] [26:02:22 10_26] Browser invoked successfully
+[INFO] [26:02:22 10_26] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [26:02:22 10_26] Performing Login operation
+[INFO] [26:02:22 10_26] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [26:02:22 10_26] Username entered : gcreddy1997@gmail.com
+[INFO] [26:02:22 10_26] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [26:02:22 10_26] Password entered : 
+[INFO] [26:02:22 10_26] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [26:02:22 10_26] Submit button clicked
+[INFO] [26:02:22 10_26] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [26:02:22 10_28] 2022/02/26 10:28:20
+[INFO] [26:02:22 10_28] 0226102820
+[INFO] [26:02:22 10_28] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [26:02:22 10_28] Properties loaded successfuly
+[INFO] [26:02:22 10_28] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [26:02:22 10_28] Properties loaded successfuly
+[INFO] [26:02:22 10_28] File Invoked successfully
+[INFO] [26:02:22 10_28] provided cell vlaue is :Yes
+[INFO] [26:02:22 10_28] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [26:02:22 10_28] provided cell vlaue is :Madhavi@1206
+[INFO] [26:02:22 10_28] provided cell vlaue is :valid
+[INFO] [26:02:22 10_28] provided cell vlaue is :UiBank
+[INFO] [26:02:22 10_28] provided cell vlaue is :Yes
+[INFO] [26:02:22 10_28] provided cell vlaue is :invalid
+[INFO] [26:02:22 10_28] provided cell vlaue is :Madhavi@1206
+[INFO] [26:02:22 10_28] provided cell vlaue is :invalid
+[INFO] [26:02:22 10_28] provided cell vlaue is :login failed
+[INFO] [26:02:22 10_28] provided cell vlaue is :Yes
+[INFO] [26:02:22 10_28] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [26:02:22 10_28] provided cell vlaue is :invalid
+[INFO] [26:02:22 10_28] provided cell vlaue is :invalid
+[INFO] [26:02:22 10_28] provided cell vlaue is :login failed
+[INFO] [26:02:22 10_28] provided cell vlaue is :Yes
+[INFO] [26:02:22 10_28] provided cell vlaue is :
+[INFO] [26:02:22 10_28] provided cell vlaue is :Madhavi@1206
+[INFO] [26:02:22 10_28] provided cell vlaue is :Invalid
+[INFO] [26:02:22 10_28] provided cell vlaue is :username or email is required
+[INFO] [26:02:22 10_28] provided cell vlaue is :Yes
+[INFO] [26:02:22 10_28] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [26:02:22 10_28] provided cell vlaue is :
+[INFO] [26:02:22 10_28] provided cell vlaue is :invalid
+[INFO] [26:02:22 10_28] provided cell vlaue is :login failed
+[INFO] [26:02:22 10_28] Browser invoked successfully
+[INFO] [26:02:22 10_28] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [26:02:22 10_28] Performing Login operation
+[INFO] [26:02:22 10_28] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [26:02:22 10_28] Username entered : gcreddy1997@gmail.com
+[INFO] [26:02:22 10_28] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [26:02:22 10_28] Password entered : Madhavi@1206
+[INFO] [26:02:22 10_28] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [26:02:22 10_28] Submit button clicked
+[INFO] [26:02:22 10_28] Browser invoked successfully
+[INFO] [26:02:22 10_28] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [26:02:22 10_28] Performing Login operation
+[INFO] [26:02:22 10_28] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [26:02:22 10_28] Username entered : invalid
+[INFO] [26:02:22 10_28] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [26:02:22 10_28] Password entered : Madhavi@1206
+[INFO] [26:02:22 10_28] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [26:02:22 10_28] Submit button clicked
+[INFO] [26:02:22 10_28] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [26:02:22 10_28] Browser invoked successfully
+[INFO] [26:02:22 10_28] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [26:02:22 10_28] Performing Login operation
+[INFO] [26:02:22 10_28] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [26:02:22 10_28] Username entered : gcreddy1997@gmail.com
+[INFO] [26:02:22 10_28] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [26:02:22 10_28] Password entered : invalid
+[INFO] [26:02:22 10_28] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [26:02:22 10_28] Submit button clicked
+[INFO] [26:02:22 10_28] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [26:02:22 10_28] Browser invoked successfully
+[INFO] [26:02:22 10_28] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [26:02:22 10_28] Performing Login operation
+[INFO] [26:02:22 10_28] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [26:02:22 10_28] Username entered : 
+[INFO] [26:02:22 10_28] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [26:02:22 10_28] Password entered : Madhavi@1206
+[INFO] [26:02:22 10_28] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [26:02:22 10_28] Submit button clicked
+[INFO] [26:02:22 10_28] Locator information is Login_nullun_message_xpath =  //*[text()=' username or email is required ']
+[INFO] [26:02:22 10_28] Browser invoked successfully
+[INFO] [26:02:22 10_28] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [26:02:22 10_28] Performing Login operation
+[INFO] [26:02:22 10_28] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [26:02:22 10_29] Username entered : gcreddy1997@gmail.com
+[INFO] [26:02:22 10_29] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [26:02:22 10_29] Password entered : 
+[INFO] [26:02:22 10_29] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [26:02:22 10_29] Submit button clicked
+[INFO] [26:02:22 10_29] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [01:03:22 08_03] 2022/03/01 20:03:55
+[INFO] [01:03:22 08_03] 0301200355
+[INFO] [01:03:22 08_03] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [01:03:22 08_03] Properties loaded successfuly
+[INFO] [01:03:22 08_03] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [01:03:22 08_03] Properties loaded successfuly
+[INFO] [01:03:22 08_03] File Invoked successfully
+[INFO] [01:03:22 08_04] Browser invoked successfully
+[INFO] [01:03:22 08_04] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [01:03:22 08_04] Performing Login operation
+[INFO] [01:03:22 08_04] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [01:03:22 08_04] Username entered : gcreddy1997@gmail.com
+[INFO] [01:03:22 08_04] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [01:03:22 08_04] Password entered : Madhavi@1206
+[INFO] [01:03:22 08_04] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [01:03:22 08_04] Submit button clicked
+[INFO] [01:03:22 08_06] 2022/03/01 20:06:54
+[INFO] [01:03:22 08_06] 0301200654
+[INFO] [01:03:22 08_06] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [01:03:22 08_06] Properties loaded successfuly
+[INFO] [01:03:22 08_06] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [01:03:22 08_06] Properties loaded successfuly
+[INFO] [01:03:22 08_06] File Invoked successfully
+[INFO] [01:03:22 08_06] Browser invoked successfully
+[INFO] [01:03:22 08_07] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [01:03:22 08_07] Performing Login operation
+[INFO] [01:03:22 08_07] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [01:03:22 08_07] Username entered : gcreddy1997@gmail.com
+[INFO] [01:03:22 08_07] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [01:03:22 08_07] Password entered : Madhavi@1206
+[INFO] [01:03:22 08_07] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [01:03:22 08_07] Submit button clicked
+[INFO] [01:03:22 08_07] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [01:03:22 08_07] Properties loaded successfuly
+[INFO] [01:03:22 08_07] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [01:03:22 08_07] Properties loaded successfuly
+[INFO] [01:03:22 08_07] File Invoked successfully
+[INFO] [01:03:22 08_07] provided cell vlaue is :Yes
+[INFO] [01:03:22 08_07] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [01:03:22 08_07] provided cell vlaue is :Madhavi@1206
+[INFO] [01:03:22 08_07] provided cell vlaue is :valid
+[INFO] [01:03:22 08_07] provided cell vlaue is :UiBank
+[INFO] [01:03:22 08_07] provided cell vlaue is :Yes
+[INFO] [01:03:22 08_07] provided cell vlaue is :invalid
+[INFO] [01:03:22 08_07] provided cell vlaue is :Madhavi@1206
+[INFO] [01:03:22 08_07] provided cell vlaue is :invalid
+[INFO] [01:03:22 08_07] provided cell vlaue is :login failed
+[INFO] [01:03:22 08_07] provided cell vlaue is :Yes
+[INFO] [01:03:22 08_07] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [01:03:22 08_07] provided cell vlaue is :invalid
+[INFO] [01:03:22 08_07] provided cell vlaue is :invalid
+[INFO] [01:03:22 08_07] provided cell vlaue is :login failed
+[INFO] [01:03:22 08_07] provided cell vlaue is :Yes
+[INFO] [01:03:22 08_07] provided cell vlaue is :
+[INFO] [01:03:22 08_07] provided cell vlaue is :Madhavi@1206
+[INFO] [01:03:22 08_07] provided cell vlaue is :Invalid
+[INFO] [01:03:22 08_07] provided cell vlaue is :username or email is required
+[INFO] [01:03:22 08_07] provided cell vlaue is :Yes
+[INFO] [01:03:22 08_07] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [01:03:22 08_07] provided cell vlaue is :
+[INFO] [01:03:22 08_07] provided cell vlaue is :invalid
+[INFO] [01:03:22 08_07] provided cell vlaue is :login failed
+[INFO] [01:03:22 08_07] Browser invoked successfully
+[INFO] [01:03:22 08_07] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [01:03:22 08_07] Performing Login operation
+[INFO] [01:03:22 08_07] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [01:03:22 08_07] Username entered : gcreddy1997@gmail.com
+[INFO] [01:03:22 08_07] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [01:03:22 08_07] Password entered : Madhavi@1206
+[INFO] [01:03:22 08_07] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [01:03:22 08_07] Submit button clicked
+[INFO] [01:03:22 08_07] Browser invoked successfully
+[INFO] [01:03:22 08_07] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [01:03:22 08_07] Performing Login operation
+[INFO] [01:03:22 08_07] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [01:03:22 08_07] Username entered : invalid
+[INFO] [01:03:22 08_07] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [01:03:22 08_07] Password entered : Madhavi@1206
+[INFO] [01:03:22 08_07] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [01:03:22 08_07] Submit button clicked
+[INFO] [01:03:22 08_07] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [01:03:22 08_07] Browser invoked successfully
+[INFO] [01:03:22 08_07] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [01:03:22 08_07] Performing Login operation
+[INFO] [01:03:22 08_07] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [01:03:22 08_07] Username entered : gcreddy1997@gmail.com
+[INFO] [01:03:22 08_07] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [01:03:22 08_07] Password entered : invalid
+[INFO] [01:03:22 08_07] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [01:03:22 08_07] Submit button clicked
+[INFO] [01:03:22 08_07] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [01:03:22 08_07] Browser invoked successfully
+[INFO] [01:03:22 08_07] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [01:03:22 08_07] Performing Login operation
+[INFO] [01:03:22 08_07] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [01:03:22 08_07] Username entered : 
+[INFO] [01:03:22 08_07] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [01:03:22 08_07] Password entered : Madhavi@1206
+[INFO] [01:03:22 08_07] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [01:03:22 08_07] Submit button clicked
+[INFO] [01:03:22 08_07] Locator information is Login_nullun_message_xpath =  //*[text()=' username or email is required ']
+[INFO] [01:03:22 08_07] Browser invoked successfully
+[INFO] [01:03:22 08_07] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [01:03:22 08_07] Performing Login operation
+[INFO] [01:03:22 08_07] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [01:03:22 08_07] Username entered : gcreddy1997@gmail.com
+[INFO] [01:03:22 08_07] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [01:03:22 08_07] Password entered : 
+[INFO] [01:03:22 08_07] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [01:03:22 08_07] Submit button clicked
+[INFO] [01:03:22 08_07] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [03:03:22 06_31] 2022/03/03 18:31:27
+[INFO] [03:03:22 06_31] 0303183127
+[INFO] [03:03:22 06_31] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [03:03:22 06_31] Properties loaded successfuly
+[INFO] [03:03:22 06_31] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [03:03:22 06_31] Properties loaded successfuly
+[INFO] [03:03:22 06_31] File Invoked successfully
+[INFO] [03:03:22 06_31] Browser invoked successfully
+[INFO] [03:03:22 06_31] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [03:03:22 06_31] Performing Login operation
+[INFO] [03:03:22 06_31] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [03:03:22 06_31] Username entered : gcreddy1997@gmail.com
+[INFO] [03:03:22 06_31] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [03:03:22 06_31] Password entered : Madhavi@1206
+[INFO] [03:03:22 06_31] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [03:03:22 06_31] Submit button clicked
+[INFO] [03:03:22 06_31] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [03:03:22 06_31] Properties loaded successfuly
+[INFO] [03:03:22 06_31] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [03:03:22 06_31] Properties loaded successfuly
+[INFO] [03:03:22 06_31] File Invoked successfully
+[INFO] [03:03:22 06_31] provided cell vlaue is :Yes
+[INFO] [03:03:22 06_31] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [03:03:22 06_31] provided cell vlaue is :Madhavi@1206
+[INFO] [03:03:22 06_31] provided cell vlaue is :valid
+[INFO] [03:03:22 06_31] provided cell vlaue is :UiBank
+[INFO] [03:03:22 06_31] provided cell vlaue is :Yes
+[INFO] [03:03:22 06_31] provided cell vlaue is :invalid
+[INFO] [03:03:22 06_31] provided cell vlaue is :Madhavi@1206
+[INFO] [03:03:22 06_31] provided cell vlaue is :invalid
+[INFO] [03:03:22 06_31] provided cell vlaue is :login failed
+[INFO] [03:03:22 06_31] provided cell vlaue is :Yes
+[INFO] [03:03:22 06_31] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [03:03:22 06_31] provided cell vlaue is :invalid
+[INFO] [03:03:22 06_31] provided cell vlaue is :invalid
+[INFO] [03:03:22 06_31] provided cell vlaue is :login failed
+[INFO] [03:03:22 06_31] provided cell vlaue is :Yes
+[INFO] [03:03:22 06_31] provided cell vlaue is :
+[INFO] [03:03:22 06_31] provided cell vlaue is :Madhavi@1206
+[INFO] [03:03:22 06_31] provided cell vlaue is :Invalid
+[INFO] [03:03:22 06_31] provided cell vlaue is :username or email is required
+[INFO] [03:03:22 06_31] provided cell vlaue is :Yes
+[INFO] [03:03:22 06_31] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [03:03:22 06_31] provided cell vlaue is :
+[INFO] [03:03:22 06_31] provided cell vlaue is :invalid
+[INFO] [03:03:22 06_31] provided cell vlaue is :login failed
+[INFO] [03:03:22 06_31] Browser invoked successfully
+[INFO] [03:03:22 06_31] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [03:03:22 06_31] Performing Login operation
+[INFO] [03:03:22 06_31] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [03:03:22 06_31] Username entered : gcreddy1997@gmail.com
+[INFO] [03:03:22 06_31] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [03:03:22 06_31] Password entered : Madhavi@1206
+[INFO] [03:03:22 06_31] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [03:03:22 06_31] Submit button clicked
+[INFO] [03:03:22 06_31] Browser invoked successfully
+[INFO] [03:03:22 06_31] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [03:03:22 06_31] Performing Login operation
+[INFO] [03:03:22 06_31] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [03:03:22 06_31] Username entered : invalid
+[INFO] [03:03:22 06_31] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [03:03:22 06_31] Password entered : Madhavi@1206
+[INFO] [03:03:22 06_31] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [03:03:22 06_31] Submit button clicked
+[INFO] [03:03:22 06_31] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [03:03:22 06_31] Browser invoked successfully
+[INFO] [03:03:22 06_32] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [03:03:22 06_32] Performing Login operation
+[INFO] [03:03:22 06_32] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [03:03:22 06_32] Username entered : gcreddy1997@gmail.com
+[INFO] [03:03:22 06_32] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [03:03:22 06_32] Password entered : invalid
+[INFO] [03:03:22 06_32] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [03:03:22 06_32] Submit button clicked
+[INFO] [03:03:22 06_32] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [03:03:22 06_32] Browser invoked successfully
+[INFO] [03:03:22 06_32] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [03:03:22 06_32] Performing Login operation
+[INFO] [03:03:22 06_32] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [03:03:22 06_32] Username entered : 
+[INFO] [03:03:22 06_32] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [03:03:22 06_32] Password entered : Madhavi@1206
+[INFO] [03:03:22 06_32] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [03:03:22 06_32] Submit button clicked
+[INFO] [03:03:22 06_32] Locator information is Login_nullun_message_xpath =  //*[text()=' username or email is required ']
+[INFO] [03:03:22 06_32] Browser invoked successfully
+[INFO] [03:03:22 06_32] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [03:03:22 06_32] Performing Login operation
+[INFO] [03:03:22 06_32] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [03:03:22 06_32] Username entered : gcreddy1997@gmail.com
+[INFO] [03:03:22 06_32] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [03:03:22 06_32] Password entered : 
+[INFO] [03:03:22 06_32] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [03:03:22 06_32] Submit button clicked
+[INFO] [03:03:22 06_32] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [03:03:22 07_26] 2022/03/03 19:26:44
+[INFO] [03:03:22 07_26] 0303192644
+[INFO] [03:03:22 07_26] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [03:03:22 07_26] Properties loaded successfuly
+[INFO] [03:03:22 07_26] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [03:03:22 07_26] Properties loaded successfuly
+[INFO] [03:03:22 07_26] File Invoked successfully
+[INFO] [03:03:22 07_26] Browser invoked successfully
+[INFO] [03:03:22 07_26] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [03:03:22 07_26] Performing Login operation
+[INFO] [03:03:22 07_26] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [03:03:22 07_26] Username entered : gcreddy1997@gmail.com
+[INFO] [03:03:22 07_26] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [03:03:22 07_26] Password entered : Madhavi@1206
+[INFO] [03:03:22 07_26] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [03:03:22 07_26] Submit button clicked
+[INFO] [03:03:22 07_26] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [03:03:22 07_26] Properties loaded successfuly
+[INFO] [03:03:22 07_26] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [03:03:22 07_26] Properties loaded successfuly
+[INFO] [03:03:22 07_26] File Invoked successfully
+[INFO] [03:03:22 07_26] provided cell vlaue is :Yes
+[INFO] [03:03:22 07_26] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [03:03:22 07_26] provided cell vlaue is :Madhavi@1206
+[INFO] [03:03:22 07_26] provided cell vlaue is :valid
+[INFO] [03:03:22 07_26] provided cell vlaue is :UiBank
+[INFO] [03:03:22 07_26] provided cell vlaue is :Yes
+[INFO] [03:03:22 07_26] provided cell vlaue is :invalid
+[INFO] [03:03:22 07_26] provided cell vlaue is :Madhavi@1206
+[INFO] [03:03:22 07_26] provided cell vlaue is :invalid
+[INFO] [03:03:22 07_26] provided cell vlaue is :login failed
+[INFO] [03:03:22 07_26] provided cell vlaue is :Yes
+[INFO] [03:03:22 07_26] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [03:03:22 07_26] provided cell vlaue is :invalid
+[INFO] [03:03:22 07_26] provided cell vlaue is :invalid
+[INFO] [03:03:22 07_26] provided cell vlaue is :login failed
+[INFO] [03:03:22 07_26] provided cell vlaue is :Yes
+[INFO] [03:03:22 07_26] provided cell vlaue is :
+[INFO] [03:03:22 07_26] provided cell vlaue is :Madhavi@1206
+[INFO] [03:03:22 07_26] provided cell vlaue is :Invalid
+[INFO] [03:03:22 07_26] provided cell vlaue is :username or email is required
+[INFO] [03:03:22 07_26] provided cell vlaue is :Yes
+[INFO] [03:03:22 07_26] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [03:03:22 07_26] provided cell vlaue is :
+[INFO] [03:03:22 07_26] provided cell vlaue is :invalid
+[INFO] [03:03:22 07_26] provided cell vlaue is :login failed
+[INFO] [03:03:22 07_27] Browser invoked successfully
+[INFO] [03:03:22 07_27] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [03:03:22 07_27] Performing Login operation
+[INFO] [03:03:22 07_27] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [03:03:22 07_27] Username entered : gcreddy1997@gmail.com
+[INFO] [03:03:22 07_27] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [03:03:22 07_27] Password entered : Madhavi@1206
+[INFO] [03:03:22 07_27] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [03:03:22 07_27] Submit button clicked
+[INFO] [03:03:22 07_27] Browser invoked successfully
+[INFO] [03:03:22 07_27] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [03:03:22 07_27] Performing Login operation
+[INFO] [03:03:22 07_27] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [03:03:22 07_27] Username entered : invalid
+[INFO] [03:03:22 07_27] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [03:03:22 07_27] Password entered : Madhavi@1206
+[INFO] [03:03:22 07_27] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [03:03:22 07_27] Submit button clicked
+[INFO] [03:03:22 07_27] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [03:03:22 07_27] Browser invoked successfully
+[INFO] [03:03:22 07_27] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [03:03:22 07_27] Performing Login operation
+[INFO] [03:03:22 07_27] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [03:03:22 07_27] Username entered : gcreddy1997@gmail.com
+[INFO] [03:03:22 07_27] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [03:03:22 07_27] Password entered : invalid
+[INFO] [03:03:22 07_27] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [03:03:22 07_27] Submit button clicked
+[INFO] [03:03:22 07_27] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [03:03:22 07_27] Browser invoked successfully
+[INFO] [03:03:22 07_27] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [03:03:22 07_27] Performing Login operation
+[INFO] [03:03:22 07_27] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [03:03:22 07_27] Username entered : 
+[INFO] [03:03:22 07_27] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [03:03:22 07_27] Password entered : Madhavi@1206
+[INFO] [03:03:22 07_27] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [03:03:22 07_27] Submit button clicked
+[INFO] [03:03:22 07_27] Locator information is Login_nullun_message_xpath =  //*[text()=' username or email is required ']
+[INFO] [03:03:22 07_27] Browser invoked successfully
+[INFO] [03:03:22 07_27] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [03:03:22 07_27] Performing Login operation
+[INFO] [03:03:22 07_27] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [03:03:22 07_27] Username entered : gcreddy1997@gmail.com
+[INFO] [03:03:22 07_27] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [03:03:22 07_27] Password entered : 
+[INFO] [03:03:22 07_27] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [03:03:22 07_27] Submit button clicked
+[INFO] [03:03:22 07_27] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [03:03:22 07_33] 2022/03/03 19:33:31
+[INFO] [03:03:22 07_33] 0303193331
+[INFO] [03:03:22 07_33] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [03:03:22 07_33] Properties loaded successfuly
+[INFO] [03:03:22 07_33] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [03:03:22 07_33] Properties loaded successfuly
+[INFO] [03:03:22 07_33] File Invoked successfully
+[INFO] [03:03:22 07_33] Browser invoked successfully
+[INFO] [03:03:22 07_33] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [03:03:22 07_33] Performing Login operation
+[INFO] [03:03:22 07_33] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [03:03:22 07_33] Username entered : gcreddy1997@gmail.com
+[INFO] [03:03:22 07_33] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [03:03:22 07_33] Password entered : Madhavi@1206
+[INFO] [03:03:22 07_33] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [03:03:22 07_33] Submit button clicked
+[INFO] [03:03:22 07_33] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [03:03:22 07_33] Properties loaded successfuly
+[INFO] [03:03:22 07_33] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [03:03:22 07_33] Properties loaded successfuly
+[INFO] [03:03:22 07_33] File Invoked successfully
+[INFO] [03:03:22 07_33] provided cell vlaue is :Yes
+[INFO] [03:03:22 07_33] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [03:03:22 07_33] provided cell vlaue is :Madhavi@1206
+[INFO] [03:03:22 07_33] provided cell vlaue is :valid
+[INFO] [03:03:22 07_33] provided cell vlaue is :UiBank
+[INFO] [03:03:22 07_33] provided cell vlaue is :Yes
+[INFO] [03:03:22 07_33] provided cell vlaue is :invalid
+[INFO] [03:03:22 07_33] provided cell vlaue is :Madhavi@1206
+[INFO] [03:03:22 07_33] provided cell vlaue is :invalid
+[INFO] [03:03:22 07_33] provided cell vlaue is :login failed
+[INFO] [03:03:22 07_33] provided cell vlaue is :Yes
+[INFO] [03:03:22 07_33] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [03:03:22 07_33] provided cell vlaue is :invalid
+[INFO] [03:03:22 07_33] provided cell vlaue is :invalid
+[INFO] [03:03:22 07_33] provided cell vlaue is :login failed
+[INFO] [03:03:22 07_33] provided cell vlaue is :Yes
+[INFO] [03:03:22 07_33] provided cell vlaue is :
+[INFO] [03:03:22 07_33] provided cell vlaue is :Madhavi@1206
+[INFO] [03:03:22 07_33] provided cell vlaue is :Invalid
+[INFO] [03:03:22 07_33] provided cell vlaue is :username or email is required
+[INFO] [03:03:22 07_33] provided cell vlaue is :Yes
+[INFO] [03:03:22 07_33] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [03:03:22 07_33] provided cell vlaue is :
+[INFO] [03:03:22 07_33] provided cell vlaue is :invalid
+[INFO] [03:03:22 07_33] provided cell vlaue is :login failed
+[INFO] [03:03:22 07_33] Browser invoked successfully
+[INFO] [03:03:22 07_33] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [03:03:22 07_33] Performing Login operation
+[INFO] [03:03:22 07_33] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [03:03:22 07_33] Username entered : gcreddy1997@gmail.com
+[INFO] [03:03:22 07_33] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [03:03:22 07_33] Password entered : Madhavi@1206
+[INFO] [03:03:22 07_33] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [03:03:22 07_33] Submit button clicked
+[INFO] [03:03:22 07_33] Browser invoked successfully
+[INFO] [03:03:22 07_33] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [03:03:22 07_33] Performing Login operation
+[INFO] [03:03:22 07_33] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [03:03:22 07_34] Username entered : invalid
+[INFO] [03:03:22 07_34] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [03:03:22 07_34] Password entered : Madhavi@1206
+[INFO] [03:03:22 07_34] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [03:03:22 07_34] Submit button clicked
+[INFO] [03:03:22 07_34] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [03:03:22 07_34] Browser invoked successfully
+[INFO] [03:03:22 07_34] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [03:03:22 07_34] Performing Login operation
+[INFO] [03:03:22 07_34] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [03:03:22 07_34] Username entered : gcreddy1997@gmail.com
+[INFO] [03:03:22 07_34] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [03:03:22 07_34] Password entered : invalid
+[INFO] [03:03:22 07_34] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [03:03:22 07_34] Submit button clicked
+[INFO] [03:03:22 07_34] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [03:03:22 07_34] Browser invoked successfully
+[INFO] [03:03:22 07_34] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [03:03:22 07_34] Performing Login operation
+[INFO] [03:03:22 07_34] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [03:03:22 07_34] Username entered : 
+[INFO] [03:03:22 07_34] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [03:03:22 07_34] Password entered : Madhavi@1206
+[INFO] [03:03:22 07_34] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [03:03:22 07_34] Submit button clicked
+[INFO] [03:03:22 07_34] Locator information is Login_nullun_message_xpath =  //*[text()=' username or email is required ']
+[INFO] [03:03:22 07_34] Browser invoked successfully
+[INFO] [03:03:22 07_34] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [03:03:22 07_34] Performing Login operation
+[INFO] [03:03:22 07_34] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [03:03:22 07_34] Username entered : gcreddy1997@gmail.com
+[INFO] [03:03:22 07_34] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [03:03:22 07_34] Password entered : 
+[INFO] [03:03:22 07_34] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [03:03:22 07_34] Submit button clicked
+[INFO] [03:03:22 07_34] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [04:03:22 07_18] 2022/03/04 19:18:55
+[INFO] [04:03:22 07_18] 0304191855
+[INFO] [04:03:22 07_18] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [04:03:22 07_18] Properties loaded successfuly
+[INFO] [04:03:22 07_18] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [04:03:22 07_18] Properties loaded successfuly
+[INFO] [04:03:22 07_18] File Invoked successfully
+[INFO] [04:03:22 07_19] Browser invoked successfully
+[INFO] [04:03:22 07_19] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [04:03:22 07_19] Performing Login operation
+[INFO] [04:03:22 07_19] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [04:03:22 07_19] Username entered : gcreddy1997@gmail.com
+[INFO] [04:03:22 07_19] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [04:03:22 07_19] Password entered : Madhavi@1206
+[INFO] [04:03:22 07_19] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [04:03:22 07_19] Submit button clicked
+[INFO] [04:03:22 07_19] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [04:03:22 07_19] Properties loaded successfuly
+[INFO] [04:03:22 07_19] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [04:03:22 07_19] Properties loaded successfuly
+[INFO] [04:03:22 07_19] File Invoked successfully
+[INFO] [04:03:22 07_19] provided cell vlaue is :Yes
+[INFO] [04:03:22 07_19] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [04:03:22 07_19] provided cell vlaue is :Madhavi@1206
+[INFO] [04:03:22 07_19] provided cell vlaue is :valid
+[INFO] [04:03:22 07_19] provided cell vlaue is :UiBank
+[INFO] [04:03:22 07_19] provided cell vlaue is :Yes
+[INFO] [04:03:22 07_19] provided cell vlaue is :invalid
+[INFO] [04:03:22 07_19] provided cell vlaue is :Madhavi@1206
+[INFO] [04:03:22 07_19] provided cell vlaue is :invalid
+[INFO] [04:03:22 07_19] provided cell vlaue is :login failed
+[INFO] [04:03:22 07_19] provided cell vlaue is :Yes
+[INFO] [04:03:22 07_19] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [04:03:22 07_19] provided cell vlaue is :invalid
+[INFO] [04:03:22 07_19] provided cell vlaue is :invalid
+[INFO] [04:03:22 07_19] provided cell vlaue is :login failed
+[INFO] [04:03:22 07_19] provided cell vlaue is :Yes
+[INFO] [04:03:22 07_19] provided cell vlaue is :
+[INFO] [04:03:22 07_19] provided cell vlaue is :Madhavi@1206
+[INFO] [04:03:22 07_19] provided cell vlaue is :Invalid
+[INFO] [04:03:22 07_19] provided cell vlaue is :username or email is required
+[INFO] [04:03:22 07_19] provided cell vlaue is :Yes
+[INFO] [04:03:22 07_19] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [04:03:22 07_19] provided cell vlaue is :
+[INFO] [04:03:22 07_19] provided cell vlaue is :invalid
+[INFO] [04:03:22 07_19] provided cell vlaue is :login failed
+[INFO] [04:03:22 07_19] Browser invoked successfully
+[INFO] [04:03:22 07_19] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [04:03:22 07_19] Performing Login operation
+[INFO] [04:03:22 07_19] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [04:03:22 07_19] Username entered : gcreddy1997@gmail.com
+[INFO] [04:03:22 07_19] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [04:03:22 07_19] Password entered : Madhavi@1206
+[INFO] [04:03:22 07_19] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [04:03:22 07_19] Submit button clicked
+[INFO] [04:03:22 07_19] Browser invoked successfully
+[INFO] [04:03:22 07_19] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [04:03:22 07_19] Performing Login operation
+[INFO] [04:03:22 07_19] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [04:03:22 07_19] Username entered : invalid
+[INFO] [04:03:22 07_19] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [04:03:22 07_19] Password entered : Madhavi@1206
+[INFO] [04:03:22 07_19] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [04:03:22 07_19] Submit button clicked
+[INFO] [04:03:22 07_19] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [04:03:22 07_19] Browser invoked successfully
+[INFO] [04:03:22 07_19] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [04:03:22 07_19] Performing Login operation
+[INFO] [04:03:22 07_19] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [04:03:22 07_19] Username entered : gcreddy1997@gmail.com
+[INFO] [04:03:22 07_19] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [04:03:22 07_19] Password entered : invalid
+[INFO] [04:03:22 07_19] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [04:03:22 07_19] Submit button clicked
+[INFO] [04:03:22 07_19] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [04:03:22 07_19] Browser invoked successfully
+[INFO] [04:03:22 07_19] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [04:03:22 07_19] Performing Login operation
+[INFO] [04:03:22 07_19] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [04:03:22 07_19] Username entered : 
+[INFO] [04:03:22 07_19] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [04:03:22 07_19] Password entered : Madhavi@1206
+[INFO] [04:03:22 07_19] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [04:03:22 07_19] Submit button clicked
+[INFO] [04:03:22 07_19] Locator information is Login_nullun_message_xpath =  //*[text()=' username or email is required ']
+[INFO] [04:03:22 07_19] Browser invoked successfully
+[INFO] [04:03:22 07_19] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [04:03:22 07_19] Performing Login operation
+[INFO] [04:03:22 07_19] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [04:03:22 07_19] Username entered : gcreddy1997@gmail.com
+[INFO] [04:03:22 07_19] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [04:03:22 07_19] Password entered : 
+[INFO] [04:03:22 07_19] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [04:03:22 07_19] Submit button clicked
+[INFO] [04:03:22 07_19] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [04:03:22 07_20] 2022/03/04 19:20:28
+[INFO] [04:03:22 07_20] 0304192028
+[INFO] [04:03:22 07_20] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [04:03:22 07_20] Properties loaded successfuly
+[INFO] [04:03:22 07_20] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [04:03:22 07_20] Properties loaded successfuly
+[INFO] [04:03:22 07_20] File Invoked successfully
+[INFO] [04:03:22 07_20] Browser invoked successfully
+[INFO] [04:03:22 07_20] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [04:03:22 07_20] Performing Login operation
+[INFO] [04:03:22 07_20] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [04:03:22 07_20] Username entered : gcreddy1997@gmail.com
+[INFO] [04:03:22 07_20] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [04:03:22 07_20] Password entered : Madhavi@1206
+[INFO] [04:03:22 07_20] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [04:03:22 07_20] Submit button clicked
+[INFO] [04:03:22 07_20] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Config.properties
+[INFO] [04:03:22 07_20] Properties loaded successfuly
+[INFO] [04:03:22 07_20] Properites File invoked successfullyC:\Users\User\eclipse-workspace\org.magnitia.selenium.gcr_28\src\test\resources\ObjectRepository\Locater.properties
+[INFO] [04:03:22 07_20] Properties loaded successfuly
+[INFO] [04:03:22 07_20] File Invoked successfully
+[INFO] [04:03:22 07_20] provided cell vlaue is :Yes
+[INFO] [04:03:22 07_20] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [04:03:22 07_20] provided cell vlaue is :Madhavi@1206
+[INFO] [04:03:22 07_20] provided cell vlaue is :valid
+[INFO] [04:03:22 07_20] provided cell vlaue is :UiBank
+[INFO] [04:03:22 07_20] provided cell vlaue is :Yes
+[INFO] [04:03:22 07_20] provided cell vlaue is :invalid
+[INFO] [04:03:22 07_20] provided cell vlaue is :Madhavi@1206
+[INFO] [04:03:22 07_20] provided cell vlaue is :invalid
+[INFO] [04:03:22 07_20] provided cell vlaue is :login failed
+[INFO] [04:03:22 07_20] provided cell vlaue is :Yes
+[INFO] [04:03:22 07_20] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [04:03:22 07_20] provided cell vlaue is :invalid
+[INFO] [04:03:22 07_20] provided cell vlaue is :invalid
+[INFO] [04:03:22 07_20] provided cell vlaue is :login failed
+[INFO] [04:03:22 07_20] provided cell vlaue is :Yes
+[INFO] [04:03:22 07_20] provided cell vlaue is :
+[INFO] [04:03:22 07_20] provided cell vlaue is :Madhavi@1206
+[INFO] [04:03:22 07_20] provided cell vlaue is :Invalid
+[INFO] [04:03:22 07_20] provided cell vlaue is :username or email is required
+[INFO] [04:03:22 07_20] provided cell vlaue is :Yes
+[INFO] [04:03:22 07_20] provided cell vlaue is :gcreddy1997@gmail.com
+[INFO] [04:03:22 07_20] provided cell vlaue is :
+[INFO] [04:03:22 07_20] provided cell vlaue is :invalid
+[INFO] [04:03:22 07_20] provided cell vlaue is :login failed
+[INFO] [04:03:22 07_20] Browser invoked successfully
+[INFO] [04:03:22 07_20] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [04:03:22 07_20] Performing Login operation
+[INFO] [04:03:22 07_20] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [04:03:22 07_20] Username entered : gcreddy1997@gmail.com
+[INFO] [04:03:22 07_20] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [04:03:22 07_20] Password entered : Madhavi@1206
+[INFO] [04:03:22 07_20] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [04:03:22 07_20] Submit button clicked
+[INFO] [04:03:22 07_20] Browser invoked successfully
+[INFO] [04:03:22 07_20] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [04:03:22 07_20] Performing Login operation
+[INFO] [04:03:22 07_20] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [04:03:22 07_21] Username entered : invalid
+[INFO] [04:03:22 07_21] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [04:03:22 07_21] Password entered : Madhavi@1206
+[INFO] [04:03:22 07_21] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [04:03:22 07_21] Submit button clicked
+[INFO] [04:03:22 07_21] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [04:03:22 07_21] Browser invoked successfully
+[INFO] [04:03:22 07_21] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [04:03:22 07_21] Performing Login operation
+[INFO] [04:03:22 07_21] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [04:03:22 07_21] Username entered : gcreddy1997@gmail.com
+[INFO] [04:03:22 07_21] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [04:03:22 07_21] Password entered : invalid
+[INFO] [04:03:22 07_21] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [04:03:22 07_21] Submit button clicked
+[INFO] [04:03:22 07_21] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
+[INFO] [04:03:22 07_21] Browser invoked successfully
+[INFO] [04:03:22 07_21] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [04:03:22 07_21] Performing Login operation
+[INFO] [04:03:22 07_21] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [04:03:22 07_21] Username entered : 
+[INFO] [04:03:22 07_21] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [04:03:22 07_21] Password entered : Madhavi@1206
+[INFO] [04:03:22 07_21] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [04:03:22 07_21] Submit button clicked
+[INFO] [04:03:22 07_21] Locator information is Login_nullun_message_xpath =  //*[text()=' username or email is required ']
+[INFO] [04:03:22 07_21] Browser invoked successfully
+[INFO] [04:03:22 07_21] Application https://uibank.uipath.com/ is invoked successfully
+[INFO] [04:03:22 07_21] Performing Login operation
+[INFO] [04:03:22 07_21] Locator information is Login_UserName_TxtBox_id =  username
+[INFO] [04:03:22 07_21] Username entered : gcreddy1997@gmail.com
+[INFO] [04:03:22 07_21] Locator information is Login_Pasword_TxtBox_name =  password
+[INFO] [04:03:22 07_21] Password entered : 
+[INFO] [04:03:22 07_21] Locator information is Login_signIn_button_xpath =  //*[@class='btn btn-block btn-blue btn-xl']
+[INFO] [04:03:22 07_21] Submit button clicked
+[INFO] [04:03:22 07_21] Locator information is Login_invalidun_message_xpath =  //*[text()=' login failed ']
